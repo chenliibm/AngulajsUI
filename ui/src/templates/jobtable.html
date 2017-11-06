@@ -1,0 +1,188 @@
+<div class="pull-right">
+    <br>
+    <!-- <input type="checkbox" data-toggle="toggle" data-size="mini" data-style="ios">&nbsp;Auto Refresh -->
+    <button type="button" class="btn btn-info" ng-click="startrefresh()">
+    <span class="glyphicon glyphicon-refresh"></span>Refresh</button>
+    <br>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <!-- Trigger the modal with a button -->
+
+        <button type="button" class="btn btn-default btn-primary" id="myBtn" onclick="modalOpen('#newjobModal')" style="margin:10px;">Create New Job</button>
+
+<div ng-controller="newjobCtrl">
+
+    <!-- New Job Creation Modal -->
+    <div class="modal fade" id="newjobModal" role="dialog">
+        <div class="modal-dialog modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header" style="padding:35px 50px;">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4>New Job</h4>
+</div>
+<div class="modal-body" style="padding:40px 50px;">
+<form role="form" ng-submit="submit()" onsubmit = "btnClickVerifyJobM()">
+    Fixlet IDs : <input type="text" class="form-control" id="fixletid" placeholder="123456;345678" ng-model="fixletids">
+    <br>
+    RemoveUrlStructure : <select ng-required="true" ng-model="selectedRmvUrlOption" ng-options="o for o in removeUrlStrOpetion">
+    <option value ="">Pls Select a Value</option>
+</select>
+<br><br>
+    <button type="submit" id="submit" value='Submit' class="btn btn-success btn-block"  ng-model = "emptyTestCase"><span class="glyphicon glyphicon-ok"></span> Submit </button>
+
+</form>
+</div>
+<div class="modal-footer">
+    <button type="submit" class="btn btn-danger btn-default pull-right" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Cancel</button>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- Verify Jobs Modal -->
+
+<div class="modal fade" id="verfiyJobModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <div class="modal-header" style="padding:35px 50px;">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4>Verify Job submitted</h4>
+</div>
+<div class="modal-body" style="padding:40px 50px;">
+
+
+<form role="form" ng-submit="confirm()" >
+    <div style="height: 300px; overflow: auto;">
+<table class="table table-striped table-condensed table-hover">
+    <thead>
+
+        <tr>
+            <th>No</th>
+            <th>fixletid</th>
+            <th>TestCaseName</th>
+            <th>OSName</th>
+            <th>AppName</th>
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tfoot></tfoot>
+    <tbody>
+        <tr ng-repeat="fix in fixletids_confirm">
+            <td>{{$index}}</td>
+            <td>{{fix.fixletID}}</td>
+            <td>{{fix.testCaseName}}</td>
+            <td>{{fix.osName}}</td>
+            <td>{{fix.appName}}</td>
+            <td ng-href="#here" ng-click="delRow($index)"><span class="glyphicon glyphicon-trash"></span></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+configure <input type= "checkbox" ng-model = "configure">
+<div ng-show = "configure">
+<pre>{{fixletids_confirm}}</pre>
+<pre> RemoveUrlStructure :  {{selectedRmvUrlOption}}</pre>
+</div>
+
+<button type="submit" class="btn btn-success btn-block" ng-click="closeM()"  ng-disabled = "emptyTestCase" ><span class="glyphicon glyphicon-ok"></span> Confirm </button>
+</form>
+</div>
+<div class="modal-footer">
+    <button type="submit" class="btn  btn-warning btn-default" onclick="editJobs()"><span class="glyphicon glyphicon-pencil"></span> Edit Job</button>
+&nbsp;
+
+<button type="submit" class="btn btn-danger btn-default pull-right" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Cancel</button>
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped table-condensed table-hover table-responsive" style="table-layout: fixed; padding:10px">
+<thead>
+
+    <tr>
+        <th custom-sort order="'id'" sort="sort" style="width:3%">ID</th>
+        <th custom-sort order="'jobType'" sort="sort" style="width:6%">Type</th>
+        <th custom-sort order="'job'" sort="sort" style="width:50%">Job</th>
+        <th custom-sort order="'status'" sort="sort">Status</th>
+        <th custom-sort order="'createdAt'" sort="sort">Created At</th>
+        <th custom-sort order="'updatedAt'" sort="sort">Updated At</th>
+    </tr>
+</thead>
+<tfoot>
+    <td colspan="6">
+        <div class="pagination pull-right">
+            <ul class="pagination">
+                <li ng-class="{disabled: currentPage == 0}">
+                    <a href ng-click="firstPage()"><span class = 'glyphicon glyphicon-step-backward'></span> First</a>
+                </li>
+
+                <li ng-class="{disabled: currentPage == 0}">
+                    <a href ng-click="prevPage()">« Prev</a>
+                </li>
+
+                <li ng-repeat="n in range(pagedItems.length, currentPage, currentPage + gap) " ng-class="{active: n == currentPage}" ng-click="setPage()">
+                    <a href ng-bind="n + 1">1</a>
+                </li>
+
+                <li ng-class="{disabled: (currentPage) == pagedItems.length - 1}">
+                    <a href ng-click="nextPage()">Next »</a>
+                </li>
+
+                <li ng-class="{disabled : (currentPage) == pagedItems.length - 1}">
+                    <a href ng-click="lastPage()">Last <span class = 'glyphicon glyphicon-step-forward' ></span></a>
+                </li>
+
+            </ul>
+        </div>
+    </td>
+</tfoot>
+<tbody>
+    <tr ng-repeat="item in pagedItems[currentPage] | orderBy:sort.sortingOrder:sort.reverse">
+        <td>
+            <a href="#testcases/{{item.id}}" onclick="testcaseTabSelect()" ng-click="setSeletectJobId(item.id)">
+<u>{{item.id}}</u>
+</a>
+</td>
+<td>{{item.jobType}}</td>
+<td style="text-overflow: ellipsis;max-width: 100px;
+      
+      overflow: hidden;">{{item.jobs}}</td>
+<td>{{item.status}}</td>
+<td>{{item.createdAt | date:'dd/MM/yyyy HH:mm'}}</td>
+<td>{{item.updatedAt | date:'dd/MM/yyyy HH:mm'}}</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<hr>
+source <input type= "checkbox" ng-model = "showsourceJob">
+<div ng-show = "showsourceJob">
+    <pre>DataBaseStatus: {{databaseStatus}}</pre>
+    <pre>httpStatus: {{httpStatus}}</pre>
+</div>
+

@@ -1,0 +1,38 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "Test Automation Framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:shwesc/Test-Automation.git"
+  },
+  "author": "so3chun",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cron": "^1.2.1",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "http": "0.0.0",
+    "infinite-loop": "^0.2.2",
+    "moment": "^2.18.1",
+    "mssql": "^3.3.0",
+    "node-async-loop": "^1.2.2",
+    "node-getopt": "^0.2.3",
+    "ps-tree": "^1.1.0",
+    "sequelize": "^3.29.0",
+    "sequelize-fixtures": "^0.5.6",
+    "tedious": "^1.14.0",
+    "tree-kill": "^1.1.0",
+    "underscore": "^1.8.3",
+    "vsphere": "file:vsphere-1.1.0.tgz"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-html2js": "^0.3.6"
+  }
+}

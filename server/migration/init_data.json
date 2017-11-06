@@ -1,0 +1,112 @@
+[
+    {
+        "model": "Job",
+        "data": {
+            "id": 1,
+            "jobType": "FIXLET",
+            "jobs": "1700419",
+            "bdeDSN": "bde_testdb",
+            "bdeSiteName": "EnterpriseSecurity",
+            "esxServer": "10.1.4.100",
+            "esxUser": "roysoum",
+            "esxPassword": "password",
+            "removeURLStructure": false,
+            "vmSafetyOff": true,
+            "status": "CREATED"
+        }
+    }, {
+        "model": "TestCase",
+        "data": {
+            "id": 1,
+            "fixletID": "1700419",
+            "testCaseName": "Windows 7 SP1 && ",
+            "osName": "Windows 7 SP1",
+            "appName": " ",
+            "status": "CREATED",
+            "Job": 1
+        }
+    }, {
+        "model": "TestCase",
+        "data": {
+            "id": 2,
+            "fixletID": "1700419",
+            "testCaseName": "Windows Embedded POSReady 7 SP1 && ",
+            "osName": "Windows Embedded POSReady 7 SP1",
+            "appName": " ",
+            "status": "CREATED",
+            "Job": 1
+        }
+    }, {
+            "model": "VM",
+            "data": {
+                "id": 1,
+                "name": "Windows 7 SP1 x86 English #2 (IE 8)",
+                "osName": "Windows 7 SP1",
+                "occupied": false
+            }
+        }, {
+            "model": "VM",
+            "data": {
+                "id": 2,
+                "name": "Windows 7 SP1 x86 English #1 (with IE)",
+                "osName": "Windows 7 SP1",
+                "occupied": false
+            }
+        }, {
+            "model": "VM",
+            "data": {
+                "id": 3,
+                "name": "WinPOSReady 7",
+                "osName": "Windows Embedded POSReady 7 SP1",
+                "occupied": false
+            }
+        }, {
+            "model": "SnapShot",
+            "data": {
+                "id": 1,
+                "name": "MSXML3,4,6 installed",
+                "appName": "Microsoft XML Core Service 3.0; Microsoft XML Core Services 4.0; Microsoft XML Core Services 6.0",
+                "VM": 1
+            }
+        }, {
+            "model": "SnapShot",
+            "data": {
+                "id": 2,
+                "name": "Complete",
+                "appName": "NA",
+                "VM": 1
+            }
+        }, {
+            "model": "SnapShot",
+            "data": {
+                "id": 3,
+                "name": "Clean",
+                "appName": "Windows Media Player 12; VBScript 5.8; JScript 5.8; Internet Explorer 8",
+                "VM": 2
+            }
+        }, {
+            "model": "SnapShot",
+            "data": {
+                "id": 4,
+                "name": ".NET 4.6.1",
+                "appName": ".NET Framework 4.6.1",
+                "VM": 2
+            }
+        }, {
+            "model": "SnapShot",
+            "data": {
+                "id": 5,
+                "name": "Clean",
+                "appName": "NA; VBScript 5.8; Internet Explorer 8",
+                "VM": 3
+            }
+        }, {
+            "model": "SnapShot",
+            "data": {
+                "id": 6,
+                "name": "IE9 Installed",
+                "appName": "Internet Explorer 9",
+                "VM": 3
+            }
+        } 
+]

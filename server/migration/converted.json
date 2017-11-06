@@ -1,0 +1,1609 @@
+[
+{"model":"VM","data":{"id":2,"name":"Windows 2008 Gold x86 English #1 (with IE 7, 8)","osName":"Windows Server 2008 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 7","VM":{"name":"Windows 2008 Gold x86 English #1 (with IE 7, 8)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows 2008 Gold x86 English #1 (with IE 7, 8)"}}}
+,
+{"model":"VM","data":{"id":103,"name":"Windows 2008 Gold x86 English #2","osName":"Windows Server 2008 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 7","VM":{"name":"Windows 2008 Gold x86 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Groove 2007 Installed","appName":"Internet Explorer 7","VM":{"name":"Windows 2008 Gold x86 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2007 Service Pack 2 installed","appName":"Internet Explorer 7","VM":{"name":"Windows 2008 Gold x86 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2008 Gold x86 English #2"}}}
+,
+{"model":"VM","data":{"id":631,"name":"Windows 2008 SP2 x86 English #1 (with IE 9)","osName":"Windows Server 2008 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD Installed","appName":"Active Directory","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Player 11 installed","appName":"Windows Media Player 11","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"ADFS installed and configured","appName":"Active Directory Federation Services 1.x","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"ADFS 2.0","appName":"Active Directory Federation Services 2.0","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 7","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 2008 SP2 x86 English #1 (with IE 9)"}}}
+,
+{"model":"VM","data":{"id":268,"name":"Windows 2008 SP2 x86 English #2 (IE 7)","osName":"Windows Server 2008 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 7","VM":{"name":"Windows 2008 SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"MSXML 4.0 SP3 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 2008 SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Video 9 VCM Installed","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows 2008 SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"VM","data":{"id":624,"name":"Windows 7 SP1 x86 English #1 (with IE)","osName":"Windows 7 SP1"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 8","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed","appName":"Remote Server Administration Tools","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2574819 installed","appName":"KB2574819","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2592687 installed","appName":"Remote Desktop Connection 8.0 Client","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2574819->KB2830477 installed","appName":"Remote Desktop Connection 8.1 Client","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 7 SP1 x86 English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":15,"name":"Windows Vista SP2 x86 English #1 (with IE 7)","osName":"Windows Vista SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows Vista SP2 x86 English #1 (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows Vista SP2 x86 English #1 (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Internet Explorer 9","VM":{"name":"Windows Vista SP2 x86 English #1 (with IE 7)"}}}
+,
+{"model":"VM","data":{"id":346,"name":"Windows Vista SP2 x86 English #2 (IE 7)","osName":"Windows Vista SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 7","VM":{"name":"Windows Vista SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"FTP Installed","appName":"Microsoft FTP Service 7.0 for IIS 7.0","VM":{"name":"Windows Vista SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"FTP 7.5 Installed","appName":"Microsoft FTP Service 7.5 for IIS 7.0","VM":{"name":"Windows Vista SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Desktop Connection 7.0 Installed","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows Vista SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"MSXML 4.0 SP3 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows Vista SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed","appName":"Remote Server Administration Tools","VM":{"name":"Windows Vista SP2 x86 English #2 (IE 7)"}}}
+,
+{"model":"VM","data":{"id":264,"name":"Windows XP SP3 x86 English #1 (with IE 6)","osName":"Windows XP SP3"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 6","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE7 Installed","appName":"Internet Explorer 7","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"RDC7.0","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"ADAM Installed","appName":"Active Directory Application Mode (ADAM)","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft XML Core Services 4.0 and 6.0","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Player 9 installed.","appName":"Windows Media Format Runtime 9","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Player 10 installed.","appName":"Windows Media Format Runtime 9.5","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Player 11 installed.","appName":"Windows Media Format Runtime 11","VM":{"name":"Windows XP SP3 x86 English #1 (with IE 6)"}}}
+,
+{"model":"VM","data":{"id":27,"name":"Windows XP SP3 x86 English #2 (with IE 7)","osName":"Windows XP SP3"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 6","VM":{"name":"Windows XP SP3 x86 English #2 (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE7","appName":"Internet Explorer 7","VM":{"name":"Windows XP SP3 x86 English #2 (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8","appName":"Internet Explorer 8","VM":{"name":"Windows XP SP3 x86 English #2 (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Desktop Connection 5.2 Client Installed","appName":"Remote Desktop Connection 5.2 Client","VM":{"name":"Windows XP SP3 x86 English #2 (with IE 7)"}}}
+,
+{"model":"VM","data":{"id":31,"name":"Windows XP SP2 x64 English #10 (IE 6)","osName":"Windows XP SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"VBScript 5.6","VM":{"name":"Windows XP SP2 x64 English #10 (IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE 7","appName":"Internet Explorer 7","VM":{"name":"Windows XP SP2 x64 English #10 (IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE 8","appName":"Internet Explorer 8","VM":{"name":"Windows XP SP2 x64 English #10 (IE 6)"}}}
+,
+{"model":"VM","data":{"id":301,"name":"Windows XP SP2 x64 English #11","osName":"Windows XP SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 6","VM":{"name":"Windows XP SP2 x64 English #11"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft XML Core Services 3.0 and 4.0 and 6.0","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows XP SP2 x64 English #11"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Script 5.7","appName":"Windows Script 5.7","VM":{"name":"Windows XP SP2 x64 English #11"}}}
+,
+{"model":"VM","data":{"id":280,"name":"Windows XP SP2 x64 English #9","osName":"Windows XP SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Remote Desktop Connection 6.0 Client Installed","appName":"Remote Desktop Connection 6.0 Client","VM":{"name":"Windows XP SP2 x64 English #9"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Format Runtime 11 (wmvdecod.dll)","appName":"Windows Media Format Runtime 11","VM":{"name":"Windows XP SP2 x64 English #9"}}}
+,
+{"model":"VM","data":{"id":625,"name":"Windows 7 SP1 x64 English #1 (with IE)","osName":"Windows 7 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Clean","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE 10 Installed","appName":"Internet Explorer 10","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Internet Explorer 11","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB 2929437 installed","appName":"Windows 7 SP1 x64 with KB 2929437","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed","appName":"Remote Server Administration Tools","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2574819 installed","appName":"KB2574819","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2592687 installed","appName":"Remote Desktop Connection 8.0 Client","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2574819->KB2830477 installed","appName":"Remote Desktop Connection 8.1 Client","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 7 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":518,"name":"Windows 2003 SP2 x64 English #1 (with IE)","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"AD Installed","appName":"Active Directory","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Windows Media Format Runtime 9.5","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE7 Installed","appName":"Internet Explorer 7","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"RDC 6.1 Installed","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Script 5.7","appName":"Windows Script 5.7","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"MSMQ Installed","appName":"MSMQ","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows 2003 SP2 x64 English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":276,"name":"Windows 2003 SP2 x64 English #2 (with IE)","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 6","VM":{"name":"Windows 2003 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE7 Installed","appName":"Internet Explorer 7","VM":{"name":"Windows 2003 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows 2003 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"WINS","VM":{"name":"Windows 2003 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"ADAM Installed","appName":"Active Directory Application Mode (ADAM)","VM":{"name":"Windows 2003 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft XML Core Services 4.0 and 6.0","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 2003 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"With Media Player Runtime 11 installed","appName":"Windows Media Format Runtime 11","VM":{"name":"Windows 2003 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"VM","data":{"id":595,"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Clean","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE 9 Installed","appName":"Internet Explorer 9","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"MSXML4","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD installed","appName":"Active Directory","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"WMP 11 installed","appName":"Windows Media Player 12","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD FS v2.0 Installed","appName":"Active Directory Federation Services 2.0","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Group Policy Management installed","appName":"Group Policy Management","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Desktop Experience enabled","appName":"Desktop Exp","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2592687","appName":"Remote Desktop Connection 8.0 Client","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2574819->KB2830477 installed","appName":"Remote Desktop Connection 8.1 Client","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":412,"name":"Windows Server 2008 R2 SP1 x64 English #2","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Internet Explorer 8","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9","appName":"Internet Explorer 9","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"IE10 Installed","appName":"Internet Explorer 10","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Internet Explorer 11","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"KB 2929437","appName":"Windows Server 2008 R2 SP1 x64 with KB 2929437","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".net 3.5.1","appName":".NET Framework 3.5.1","VM":{"name":"Windows Server 2008 R2 SP1 x64 English #2"}}}
+,
+{"model":"VM","data":{"id":114,"name":"Windows 2008 Gold x64 English #2 (with IE)","osName":"Windows Server 2008 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows 2008 Gold x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2008 Gold x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IIS Installed","appName":"Internet Explorer 6","VM":{"name":"Windows 2008 Gold x64 English #2 (with IE)"}}}
+,
+{"model":"VM","data":{"id":632,"name":"Windows 2008 SP2 x64 English #2 (with IE)","osName":"Windows Server 2008 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"Internet Explorer 8","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"NA","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD DS installed","appName":"Active Directory","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"MSXML 4.0 SP3 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"ADFS 1.0 installed and configured","appName":"Active Directory Federation Services 1.x","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"ADFS 2.0 installed","appName":"Active Directory Federation Services 2.0","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 2008 SP2 x64 English #2 (with IE)"}}}
+,
+{"model":"VM","data":{"id":144,"name":"Windows 2003 SP2 x86 English #7 (with IE 6)","osName":"Windows Server 2003 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Office SharePoint Server 2007 SP2","appName":"Internet Explorer 6","VM":{"name":"Windows 2003 SP2 x86 English #7 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE7","appName":"Internet Explorer 7","VM":{"name":"Windows 2003 SP2 x86 English #7 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8","appName":"Internet Explorer 8","VM":{"name":"Windows 2003 SP2 x86 English #7 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"WINS","VM":{"name":"Windows 2003 SP2 x86 English #7 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD Installed","appName":"Active Directory","VM":{"name":"Windows 2003 SP2 x86 English #7 (with IE 6)"}}}
+,
+{"model":"SnapShot","data":{"name":"ADAM Installed","appName":"Active Directory Application Mode (ADAM)","VM":{"name":"Windows 2003 SP2 x86 English #7 (with IE 6)"}}}
+,
+{"model":"VM","data":{"id":241,"name":"Windows Server 2008 R2 Gold x64 English #1 (with IE)","osName":"Windows Server 2008 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows Server 2008 R2 Gold x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"Windows Server 2008 R2 Gold x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows Server 2008 R2 Gold x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"MSXML4","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows Server 2008 R2 Gold x64 English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":155,"name":"Windows 7 Gold x64 English #1 (with IE)","osName":"Windows 7 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows 7 Gold x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"Windows 7 Gold x64 English #1 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed with vmtools updated","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows 7 Gold x64 English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":430,"name":"Windows Vista Sp2 x64 English #3 (with IE)","osName":"Windows Vista SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 installed.","appName":"Internet Explorer 8","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Internet Explorer 9","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"MSXML 4.0 SP3 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Video 9 VCM Installed","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed","appName":"Remote Server Administration Tools","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.2 installed","appName":".NET Framework 4.5.2","VM":{"name":"Windows Vista Sp2 x64 English #3 (with IE)"}}}
+,
+{"model":"VM","data":{"id":150,"name":"Windows 7 Gold x86 English #1 (with IE 9)","osName":"Windows 7 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows 7 Gold x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"Windows 7 Gold x86 English #1 (with IE 9)"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows 7 Gold x86 English #1 (with IE 9)"}}}
+,
+{"model":"VM","data":{"id":577,"name":"Windows Vista SP2 x86 English .NET Framework #1","osName":"Windows Vista SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Clean (.NET 2.0 SP2 installed by default)","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 1.1 SP1 Installed","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5 Installed","appName":".NET Framework 4.5","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.2 Installed","appName":".NET Framework 4.5.2","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows Vista SP2 x86 English .NET Framework #1"}}}
+,
+{"model":"VM","data":{"id":578,"name":"Windows Vista SP2 x64 English .NET Framework #1","osName":"Windows Vista SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 1.1 SP1 Installed","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5 installed","appName":".NET Framework 4.5","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows Vista SP2 x64 English .NET Framework #1"}}}
+,
+{"model":"VM","data":{"id":85,"name":"Windows 2008 Gold x86 .NET Framework English #1","osName":"Windows Server 2008 Gold"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 2008 Gold x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows 2008 Gold x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows 2008 Gold x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".Net Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows 2008 Gold x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows 2008 Gold x86 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":417,"name":"Windows Vista SP2 x64 English #2  (with IE 7)","osName":"Windows Vista SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft FTP Service 7.0 for IIS 7.0 Installed","appName":"Microsoft FTP Service 7.0 for IIS 7.0","VM":{"name":"Windows Vista SP2 x64 English #2  (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft FTP Service 7.5 for IIS 7.0 Installed","appName":"Windows Media Player 11","VM":{"name":"Windows Vista SP2 x64 English #2  (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"RDC 7.0 Installed","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows Vista SP2 x64 English #2  (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Center TV Pack Installed","appName":"TV pack","VM":{"name":"Windows Vista SP2 x64 English #2  (with IE 7)"}}}
+,
+{"model":"VM","data":{"id":166,"name":"Windows 2008 Gold x64 .NET Framework English #1","osName":"Windows Server 2008 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows 2008 Gold x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows 2008 Gold x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows 2008 Gold x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows 2008 Gold x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 installed","appName":".NET Framework 4.0","VM":{"name":"Windows 2008 Gold x64 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":586,"name":"Windows 2008 SP2 x86 .NET Framework #1","osName":"Windows Server 2008 SP2"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean (.NET 2.0 SP2 installed by default)","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 1.1 SP1 Installed","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5 Installed","appName":".NET Framework 4.5","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.2 Installed","appName":".NET Framework 4.5.2","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 2008 SP2 x86 .NET Framework #1"}}}
+,
+{"model":"VM","data":{"id":585,"name":"Windows 2008 SP2 x64 .NET Framework English #1","osName":"Windows Server 2008 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 1.1 SP1 Installed","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5 installed","appName":".NET Framework 4.5","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.1 installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.2 installed","appName":".NET Framework 4.5.2","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 2008 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":488,"name":"Windows 2003 SP2 x86 .NET Framework English #1","osName":"Windows Server 2003 SP2"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 2.0 SP2 Installed","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean (.NET Framework 1.1 SP1 Installed)","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows 2003 SP2 x86 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":507,"name":"Windows 2003 SP2 x86 English #12","osName":"Windows Server 2003 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Remote Desktop Connection 6.0 Client Installed","appName":"Remote Desktop Connection 6.0 Client","VM":{"name":"Windows 2003 SP2 x86 English #12"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft XML Core Services 4.0 and 6.0","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 2003 SP2 x86 English #12"}}}
+,
+{"model":"SnapShot","data":{"name":"RDC 6.1 Installed","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows 2003 SP2 x86 English #12"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":"Windows Media Format Runtime 9.5","VM":{"name":"Windows 2003 SP2 x86 English #12"}}}
+,
+{"model":"SnapShot","data":{"name":"IIS_ADFS1.0","appName":"Active Directory Federation Services 1.x","VM":{"name":"Windows 2003 SP2 x86 English #12"}}}
+,
+{"model":"SnapShot","data":{"name":"MSMQ Installed","appName":"MSMQ","VM":{"name":"Windows 2003 SP2 x86 English #12"}}}
+,
+{"model":"VM","data":{"id":539,"name":"Windows 2003 SP2 x64 English #3","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Remote Desktop Connection 6.0 Client Installed","appName":"Remote Desktop Connection 6.0 Client","VM":{"name":"Windows 2003 SP2 x64 English #3"}}}
+,
+{"model":"SnapShot","data":{"name":"With wmv9vcm.dll (codec) for Windows Media player installed","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows 2003 SP2 x64 English #3"}}}
+,
+{"model":"SnapShot","data":{"name":"WMS enabled wmvdmod.dll","appName":"Windows Media Format Runtime 11","VM":{"name":"Windows 2003 SP2 x64 English #3"}}}
+,
+{"model":"SnapShot","data":{"name":"Radius Server Enabled","appName":"Radius Server Enabled","VM":{"name":"Windows 2003 SP2 x64 English #3"}}}
+,
+{"model":"VM","data":{"id":116,"name":"Windows 7 Gold x86 .NET Framework English #1","osName":"Windows 7 Gold"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5.1 Installed","appName":".NET Framework 3.5 SP1","VM":{"name":"Windows 7 Gold x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 7 Gold x86 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":652,"name":"Windows 7 SP1 x86 .NET Framework English #1","osName":"Windows 7 SP1"}}
+,
+{"model":"SnapShot","data":{"name":"Clean (.NET 3.5.1 installed by default)","appName":".NET Framework 3.5 SP1","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".net framework 4.0 installed","appName":".NET Framework 4.0","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET framework 4.5 installed","appName":".NET Framework 4.5","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET framework 4.5.1 installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 5","appName":"ASP.NET MVC 5.0","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 5 installed (nuget)","appName":"ASP.NET MVC 5.0 nudget","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".Net 4.6.2 installed","appName":".NET Framework 4.6.2","VM":{"name":"Windows 7 SP1 x86 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":163,"name":"Windows XP SP3 x86 .NET Framework #1","osName":"Windows XP SP3"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows XP SP3 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".Net Framework 2.0 SP2 Installed","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows XP SP3 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows XP SP3 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows XP SP3 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows XP SP3 x86 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 1.1 SP1 Installed","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows XP SP3 x86 .NET Framework #1"}}}
+,
+{"model":"VM","data":{"id":492,"name":"Windows 2003 SP2 x64 .NET Framework English #1","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 2.0 SP2 Installed","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 1.1 SP1 Installed","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows 2003 SP2 x64 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":130,"name":"Windows 7 Gold x64 .NET Framework English #1","osName":"Windows 7 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 7 Gold x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5.1 Installed","appName":".NET Framework 3.5 SP1","VM":{"name":"Windows 7 Gold x64 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":653,"name":"Windows 7 SP1 x64 .NET Framework English #1","osName":"Windows 7 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":".NET Framework 3.5 SP1","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5 installed","appName":".NET Framework 4.5","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"MSXML4","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.1 installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.2 installed","appName":".NET Framework 4.5.2","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 5","appName":"ASP.NET MVC 5.0","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 5 installed (nuget)","appName":"ASP.NET MVC 5.0 nudget","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".Net 4.6.2 installed","appName":".NET Framework 4.6.2","VM":{"name":"Windows 7 SP1 x64 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":134,"name":"Windows Server 2008 R2 Gold .NET Framework English #1","osName":"Windows Server 2008 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5.1 Installed","appName":".NET Framework 3.5 SP1","VM":{"name":"Windows Server 2008 R2 Gold .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows Server 2008 R2 Gold .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":654,"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5.1 Installed","appName":".NET Framework 3.5 SP1","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":"NET framework 4.5 installed","appName":".NET Framework 4.5","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"SnapShot","data":{"name":".Net 4.6.2 installed","appName":".NET Framework 4.6.2","VM":{"name":"Windows Server 2008 R2 SP1 x64 English .NET Framework #3"}}}
+,
+{"model":"VM","data":{"id":160,"name":"Windows XP SP2 x64 .NET Framework #1","osName":"Windows XP SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":".Net Framework 3.5 SP1 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"Windows XP SP2 x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.5 Installed","appName":".NET Framework 3.5","VM":{"name":"Windows XP SP2 x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 3.0 Installed","appName":".NET Framework 3.0","VM":{"name":"Windows XP SP2 x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.0 Installed","appName":".NET Framework 4.0","VM":{"name":"Windows XP SP2 x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 2.0 SP2 Installed","appName":".NET Framework 2.0 SP2","VM":{"name":"Windows XP SP2 x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 1.1 SP1 Installed","appName":".NET Framework 1.1 SP1","VM":{"name":"Windows XP SP2 x64 .NET Framework #1"}}}
+,
+{"model":"VM","data":{"id":141,"name":"Windows 2008 Gold x64 English #3","osName":"Windows Server 2008 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"WINS","VM":{"name":"Windows 2008 Gold x64 English #3"}}}
+,
+{"model":"VM","data":{"id":142,"name":"Windows 2008 R2 SP1 x64 English #1 (with IE)","osName":"Windows Server 2008 R2 SP1 x64 English"}}
+,
+{"model":"SnapShot","data":{"name":"WINS Installed","appName":"WINS","VM":{"name":"Windows 2008 R2 SP1 x64 English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":143,"name":"Windows XP SP2 x64 English #10(IE 6)","osName":"Windows XP SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"ADAM Installed","appName":"Active Directory Application Mode (ADAM)","VM":{"name":"Windows XP SP2 x64 English #10(IE 6)"}}}
+,
+{"model":"VM","data":{"id":416,"name":"Windows Vista SP2 x86 English #3","osName":"Windows Vista SP2"}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows Vista SP2 x86 English #3"}}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Center TV Pack Installed","appName":"TV pack","VM":{"name":"Windows Vista SP2 x86 English #3"}}}
+,
+{"model":"VM","data":{"id":157,"name":"Windows Server 2008 R2 Gold x64 English #4","osName":"Windows Server 2008 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed (Fixed)","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows Server 2008 R2 Gold x64 English #4"}}}
+,
+{"model":"SnapShot","data":{"name":"AD Installed","appName":"Active Directory","VM":{"name":"Windows Server 2008 R2 Gold x64 English #4"}}}
+,
+{"model":"VM","data":{"id":154,"name":"Windows Server 2008 R2 SP1 x64  English #1 (with IE)","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows Server 2008 R2 SP1 x64  English #1 (with IE)"}}}
+,
+{"model":"VM","data":{"id":661,"name":"WinPOSReady 7","osName":"Windows Embedded POSReady 7 SP1"}}
+,
+{"model":"SnapShot","data":{"name":"KB2929437 installed","appName":"Internet Explorer 11","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":".Net Framework 4.0 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":".net framework 4.5","appName":".NET Framework 4.5","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft XML Core Services 3.0 and 4.0 and 6.0","appName":"Microsoft XML Core Services 6.0","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":"IE 10 installed","appName":"Internet Explorer 10","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2574819->KB2830477 installed","appName":"Remote Desktop Connection 8.1 Client","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.6 installed","appName":".NET Framework 4.6","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"WinPOSReady 7"}}}
+,
+{"model":"VM","data":{"id":634,"name":"WinPOSReady 7 x64","osName":"Windows Embedded POSReady 7 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":".Net Framework 4.0 Installed","appName":".NET Framework 3.0 SP2","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"IE9 Installed","appName":"Internet Explorer 9","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2929437 installed","appName":"Internet Explorer 11","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":".net framework 4.5","appName":".NET Framework 4.5","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft XML Core Services 3.0 and 4.0 and 6.0","appName":"Microsoft XML Core Services 6.0","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"IE 10 installed","appName":"Internet Explorer 10","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.2 Installed","appName":".NET Framework 4.5.2","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2574819->KB2830477 installed","appName":"Remote Desktop Connection 8.1 Client","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"SnapShot","data":{"name":".NET Framework 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"WinPOSReady 7 x64"}}}
+,
+{"model":"VM","data":{"id":558,"name":"Windows XP SP3 x86 Office Viewer #1","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Word Viewer Installed","appName":"Word Viewer","VM":{"name":"Windows XP SP3 x86 Office Viewer #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Powerpoint Viewer 2010 SP2","appName":"Powerpoint Viewer 2010","VM":{"name":"Windows XP SP3 x86 Office Viewer #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Word viewer SP3 installed","appName":"Word Viewer SP3 x32","VM":{"name":"Windows XP SP3 x86 Office Viewer #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Excel Viewer SP3","appName":"Excel Viewer x32","VM":{"name":"Windows XP SP3 x86 Office Viewer #1"}}}
+,
+{"model":"VM","data":{"id":177,"name":"Office Compatibility Pack 2007 - WinXP SP3","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Compatibility Pack 2007 SP2","appName":"Office Compatibility Pack Service Pack 2","VM":{"name":"Office Compatibility Pack 2007 - WinXP SP3"}}}
+,
+{"model":"SnapShot","data":{"name":"Compatibility Pack 2007 SP3","appName":"Office Compatibility Pack Service Pack 3","VM":{"name":"Office Compatibility Pack 2007 - WinXP SP3"}}}
+,
+{"model":"VM","data":{"id":179,"name":"Windows XP SP2 x86 - InfoPath 2007","osName":"Windows XP SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2007 SP2 Installed","appName":"InfoPath 2007 Service Pack 2","VM":{"name":"Windows XP SP2 x86 - InfoPath 2007"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2007 SP3 Installed","appName":"InfoPath 2007 Service Pack 3","VM":{"name":"Windows XP SP2 x86 - InfoPath 2007"}}}
+,
+{"model":"VM","data":{"id":313,"name":"Windows 7 Gold x86 English Office 2010","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 SP1 - Installed","appName":"Office 2010 Service Pack 1 (32-bit editions)","VM":{"name":"Windows 7 Gold x86 English Office 2010"}}}
+,
+{"model":"SnapShot","data":{"name":"office 2010 sp2 full","appName":"Office 2010 x32","VM":{"name":"Windows 7 Gold x86 English Office 2010"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio 2010 SP2 installed","appName":"Visio 2010 SP2 x86","VM":{"name":"Windows 7 Gold x86 English Office 2010"}}}
+,
+{"model":"VM","data":{"id":181,"name":"Windows 7 x64 Office 2010 Professional Plus","osName":"Windows 7 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 SP1 - Installed","appName":"InfoPath 2010 Service Pack 1 (64-bit editions)","VM":{"name":"Windows 7 x64 Office 2010 Professional Plus"}}}
+,
+{"model":"VM","data":{"id":183,"name":"Windows 2003 SP2 x86 - Sharepoint 2007 SP2 SP3","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SP2 Installed","appName":"SharePoint Server 2007 Service Pack 2 (32-bit editions)","VM":{"name":"Windows 2003 SP2 x86 - Sharepoint 2007 SP2 SP3"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint 2007 SP3 Installed","appName":"SharePoint Server 2007 Service Pack 3 (32-bit editions)","VM":{"name":"Windows 2003 SP2 x86 - Sharepoint 2007 SP2 SP3"}}}
+,
+{"model":"VM","data":{"id":185,"name":"Windows 2003 SP2 x64 - Sharepoint 2007 SP1 SP2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint 2007 SP2 Installed","appName":"SharePoint Server 2007 Service Pack 2 (64-bit editions)","VM":{"name":"Windows 2003 SP2 x64 - Sharepoint 2007 SP1 SP2"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint 2007 SP3 Installed","appName":"SharePoint Server 2007 Service Pack 3 (64-bit editions)","VM":{"name":"Windows 2003 SP2 x64 - Sharepoint 2007 SP1 SP2"}}}
+,
+{"model":"VM","data":{"id":186,"name":"Windows 2008 SP2 x64 Sharepoint 2010","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint 2010 SP1 FIX","appName":"SharePoint Server 2010 Service Pack 1","VM":{"name":"Windows 2008 SP2 x64 Sharepoint 2010"}}}
+,
+{"model":"VM","data":{"id":187,"name":"Windows 2008 x64 Sharepoint 2010","osName":"Windows Server 2008 x64"}}
+,
+{"model":"SnapShot","data":{"name":"FAST Search Server 2010 for Sharepoint installed.","appName":"FAST Search Server 2010 for SharePoint","VM":{"name":"Windows 2008 x64 Sharepoint 2010"}}}
+,
+{"model":"VM","data":{"id":188,"name":"Windows 2008 SP2 x64 Groove 2010","osName":"Windows Server 2008 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Groove 2010 SP1 installed","appName":"Groove Server 2010 Service Pack 1","VM":{"name":"Windows 2008 SP2 x64 Groove 2010"}}}
+,
+{"model":"VM","data":{"id":189,"name":"Windows Server 2003 SP2 x86 - SharePoint 3.0","osName":"Windows Server 2003 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Patch Tuesday ready","appName":"Windows SharePoint Services 3.0 Service Pack 2 (32-bit version)","VM":{"name":"Windows Server 2003 SP2 x86 - SharePoint 3.0"}}}
+,
+{"model":"VM","data":{"id":190,"name":"Windows Server 2003 SP2 x64 - SharePoint Services 3.0 SP2","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Patch Tuesday ready","appName":"Windows SharePoint Services 3.0 Service Pack 2 (64-bit version)","VM":{"name":"Windows Server 2003 SP2 x64 - SharePoint Services 3.0 SP2"}}}
+,
+{"model":"VM","data":{"id":561,"name":"Windows 2008 x64 Sharepoint Foundation 2010","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Foundation 2010 SP1","appName":"SharePoint Foundation 2010 Service Pack 1","VM":{"name":"Windows 2008 x64 Sharepoint Foundation 2010"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Foundation 2010 SP2","appName":"SharePoint Foundation 2010 Service Pack 2","VM":{"name":"Windows 2008 x64 Sharepoint Foundation 2010"}}}
+,
+{"model":"VM","data":{"id":534,"name":"Win2k8 R2 SP1 OWA2010","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office Web Apps 2010 SP1 Installed","appName":"Office Web Apps 2010 Service Pack 1","VM":{"name":"Win2k8 R2 SP1 OWA2010"}}}
+,
+{"model":"SnapShot","data":{"name":"Office Web Apps 2010 SP2 Installed","appName":"Office Web Apps 2010 Service Pack 2","VM":{"name":"Win2k8 R2 SP1 OWA2010"}}}
+,
+{"model":"SnapShot","data":{"name":"Office Web Apps 2010 Installed","appName":"Office Web Apps 2010 Service Gold","VM":{"name":"Win2k8 R2 SP1 OWA2010"}}}
+,
+{"model":"SnapShot","data":{"name":"excel viewer 2007 SP3 installed","appName":"Excel Viewer x32 on x64","VM":{"name":"Win2k8 R2 SP1 OWA2010"}}}
+,
+{"model":"VM","data":{"id":193,"name":"Win7 Gold x86 English OC2007R2","osName":"Windows 7 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"OC 2007 R2","appName":"Communicator 2007 R2","VM":{"name":"Win7 Gold x86 English OC2007R2"}}}
+,
+{"model":"VM","data":{"id":197,"name":"Win7 Gold x86 Eng Lync 2010 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft Lync 2010 x86","appName":"Lync 2010 x32","VM":{"name":"Win7 Gold x86 Eng Lync 2010 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft Lync 2010 Attendee (Admin Level Install) x86","appName":"Lync 2010 Attendee (Admin Level Install)","VM":{"name":"Win7 Gold x86 Eng Lync 2010 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft Lync 2010 Attendee (User Level Install) x86","appName":"Lync 2010 Attendee (User Level Install)","VM":{"name":"Win7 Gold x86 Eng Lync 2010 x86"}}}
+,
+{"model":"VM","data":{"id":195,"name":"Win 7 Lync 2010 (x64)","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft Lync 2010 x64","appName":"Lync 2010 x64","VM":{"name":"Win 7 Lync 2010 (x64)"}}}
+,
+{"model":"VM","data":{"id":198,"name":"windows 2003 R2 SP2 x86 English - SQL Server 2000","osName":"Windows Server 2003 R2 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"SQL 2000 SP4 - Reporting Services SP2 installed","appName":"SQL Server 2000 Reporting Services Service Pack 2","VM":{"name":"windows 2003 R2 SP2 x86 English - SQL Server 2000"}}}
+,
+{"model":"VM","data":{"id":200,"name":"SQL Server 2005 x86","osName":"Windows Server 2003"}}
+,
+{"model":"SnapShot","data":{"name":"Changed Administrator to bigfix","appName":"SQL Server 2005 Express Edition with Advanced Services Service Pack 4","VM":{"name":"SQL Server 2005 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server 2005 SP4 Installed","appName":"SQL Server 2005 for 32-bit Systems Service Pack 4","VM":{"name":"SQL Server 2005 x86"}}}
+,
+{"model":"VM","data":{"id":201,"name":"win2003 x64 SP2","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server 2005 SP4 64-bit installed","appName":"SQL Server 2005 for x64-based Systems Service Pack 4","VM":{"name":"win2003 x64 SP2"}}}
+,
+{"model":"VM","data":{"id":418,"name":"Windows 2003 SP2 x86 English - SQL Server 2008","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server 2008 SP2 Installed","appName":"SQL Server 2008 for 32-bit Systems Service Pack 2","VM":{"name":"Windows 2003 SP2 x86 English - SQL Server 2008"}}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server x86 SP3 Installed","appName":"SQL Server 2008 for 32-bit Systems Service Pack 3","VM":{"name":"Windows 2003 SP2 x86 English - SQL Server 2008"}}}
+,
+{"model":"SnapShot","data":{"name":"SQL 2008 x86 SP3 Installed.","appName":"SQL Server 2008 SP3","VM":{"name":"Windows 2003 SP2 x86 English - SQL Server 2008"}}}
+,
+{"model":"VM","data":{"id":419,"name":"Windows 2003 SP2 x64 English - SQL Server 2008 #2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server 2008 SP2 Installed","appName":"SQL Server 2008 for x64-based Systems Service Pack 2","VM":{"name":"Windows 2003 SP2 x64 English - SQL Server 2008 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"SQL 2008 x64 SP3 Installed","appName":"SQL Server 2008 for x64-based Systems Service Pack 3","VM":{"name":"Windows 2003 SP2 x64 English - SQL Server 2008 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"SQL 2008 x64 SP3 Installed.","appName":"SQL Server 2008 SP3 x64","VM":{"name":"Windows 2003 SP2 x64 English - SQL Server 2008 #2"}}}
+,
+{"model":"VM","data":{"id":420,"name":"Windows Server 2003 SP2 x86 - SQL Server 2008 R2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server 2008 R2 SP1 installed","appName":"SQL Server 2008 R2 SP1 x86","VM":{"name":"Windows Server 2003 SP2 x86 - SQL Server 2008 R2"}}}
+,
+{"model":"SnapShot","data":{"name":"SQL server 2008 R2 SP2 installed","appName":"SQL Server 2008 R2 SP2","VM":{"name":"Windows Server 2003 SP2 x86 - SQL Server 2008 R2"}}}
+,
+{"model":"VM","data":{"id":421,"name":"Windows 2003 SP2 x64 English - SQL Server 2008 R2 #2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SQL server 2008 R2 SP1 installed","appName":"SQL Server 2008 R2 SP1 x64","VM":{"name":"Windows 2003 SP2 x64 English - SQL Server 2008 R2 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"SQL server 2008 R2 SP2 installed","appName":"SQL Server 2008 R2 SP2 x64","VM":{"name":"Windows 2003 SP2 x64 English - SQL Server 2008 R2 #2"}}}
+,
+{"model":"VM","data":{"id":209,"name":"SQL Server 2012 - Windows 2008 SP2","osName":"Windows Server 2008 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"sql server 2012 standard","appName":"SQL Server 2012 RTM x86","VM":{"name":"SQL Server 2012 - Windows 2008 SP2"}}}
+,
+{"model":"SnapShot","data":{"name":"sql server 2012 express","appName":"SQL Server 2012 RTM x86","VM":{"name":"SQL Server 2012 - Windows 2008 SP2"}}}
+,
+{"model":"VM","data":{"id":211,"name":"Win2k8R2 SP1 - SQL Server 2012","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"sql server 2012","appName":"SQL Server 2012 RTM x64","VM":{"name":"Win2k8R2 SP1 - SQL Server 2012"}}}
+,
+{"model":"SnapShot","data":{"name":"sql server 2012 express","appName":"SQL Server 2012 RTM x64","VM":{"name":"Win2k8R2 SP1 - SQL Server 2012"}}}
+,
+{"model":"VM","data":{"id":295,"name":"Office 2003 Standard SP3 - XP SP2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2003 SP3 Installed - Test Automation Ready","appName":"Office 2003 Service Pack 3","VM":{"name":"Office 2003 Standard SP3 - XP SP2"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2003 SP3 Installed - Test Auto Ready with psexec tested","appName":"Office 2003 x32","VM":{"name":"Office 2003 Standard SP3 - XP SP2"}}}
+,
+{"model":"VM","data":{"id":598,"name":"Office 2007 SP2 SP3 #2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2007 SP2 Installed","appName":"Office 2007 SP2","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2007 SP3 Installed","appName":"Microsoft Office 2007 Service Pack 3","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"office 2007 SP3 full","appName":"Office 2007 x32","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2007 SP3 Installed - full","appName":"Office 2007 x32","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Live Meeting 2007 installed","appName":"Windows Live Meeting 2007","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Live Meeting 2007","appName":"Windows Live Meeting 2007 on x64","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Japanese Language Pack SP3 Installed","appName":"Office 2007 IME x32","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"New OCS add-in installed(KB 3051468)","appName":"Windows Live Meeting 2007","VM":{"name":"Office 2007 SP2 SP3 #2"}}}
+,
+{"model":"VM","data":{"id":531,"name":"Windows 7 x64 Office 2010 Standard x86 x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 x64 Standard Installed","appName":"Office 2010 Service Pack 1 (64-bit editions)","VM":{"name":"Windows 7 x64 Office 2010 Standard x86 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 x86 SP2 installed","appName":"Office 2010 x32 on x64","VM":{"name":"Windows 7 x64 Office 2010 Standard x86 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 SP1 - Installed","appName":"Office 2010 Service Pack 1 (32-bit editions) on 64-bit system","VM":{"name":"Windows 7 x64 Office 2010 Standard x86 x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 SP2 x64 Installed.","appName":"Office 2010 x64","VM":{"name":"Windows 7 x64 Office 2010 Standard x86 x64"}}}
+,
+{"model":"VM","data":{"id":627,"name":"Win 8 x86","osName":"Windows 8 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Windows Media Player 12","VM":{"name":"Win 8 x86"}}}
+,
+{"model":"SnapShot","data":{"name":".net 3.5 enabled","appName":".NET Framework 4.5","VM":{"name":"Win 8 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"msxml 4.0 SP3 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Win 8 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"ADLDS","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Win 8 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"IIS 8.0","appName":"Microsoft Internet Information Services 8.0","VM":{"name":"Win 8 x86"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Win 8 x86"}}}
+,
+{"model":"VM","data":{"id":629,"name":"Windows 8 Gold x64","osName":"Windows 8 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Windows Media Player 12","VM":{"name":"Windows 8 Gold x64"}}}
+,
+{"model":"SnapShot","data":{"name":".net 3.5","appName":".NET Framework 4.5","VM":{"name":"Windows 8 Gold x64"}}}
+,
+{"model":"SnapShot","data":{"name":"msxml 4.0 SP3 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 8 Gold x64"}}}
+,
+{"model":"SnapShot","data":{"name":"ADLDS","appName":"Active Directory Lightweight Directory Service (AD LDS)","VM":{"name":"Windows 8 Gold x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tool installed.","appName":"Remote Server Administration","VM":{"name":"Windows 8 Gold x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote server administration Tool installed.","appName":"Remote Server Administration Tools","VM":{"name":"Windows 8 Gold x64"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 8 Gold x64"}}}
+,
+{"model":"VM","data":{"id":588,"name":"Windows 2012 Gold x64 English #1","osName":"Windows Server 2012 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Desktop Experience Enabled","appName":"Desktop Exp","VM":{"name":"Windows 2012 Gold x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".net 3.5 + .net 4.5","appName":".NET Framework 4.5","VM":{"name":"Windows 2012 Gold x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"msxml 4.0 SP3 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 2012 Gold x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"WMP 12 Installed","appName":"Windows Media Player 12","VM":{"name":"Windows 2012 Gold x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows 2012 Gold x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.2 installed","appName":".NET Framework 4.5.2","VM":{"name":"Windows 2012 Gold x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 2012 Gold x64 English #1"}}}
+,
+{"model":"VM","data":{"id":259,"name":"Windows 7 Gold x86 English #2","osName":"Windows 7 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"MSXML3,4,6 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 7 Gold x86 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"RDC 7.0.","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows 7 Gold x86 English #2"}}}
+,
+{"model":"VM","data":{"id":548,"name":"Windows 7 SP1 x86 English #2 (IE 8)","osName":"Windows 7 SP1"}}
+,
+{"model":"SnapShot","data":{"name":"MSXML3,4,6 installed","appName":"Microsoft XML Core Services 6.0","VM":{"name":"Windows 7 SP1 x86 English #2 (IE 8)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE 10 installed.","appName":"Internet Explorer 10","VM":{"name":"Windows 7 SP1 x86 English #2 (IE 8)"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2929437","appName":"Windows 7 SP1 with KB 2929437","VM":{"name":"Windows 7 SP1 x86 English #2 (IE 8)"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"NA","VM":{"name":"Windows 7 SP1 x86 English #2 (IE 8)"}}}
+,
+{"model":"VM","data":{"id":232,"name":"Windows 7 Gold x64 English #2","osName":"Windows 7 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"MSXML3,4,6 installed","appName":"Remote Desktop Connection 7.0 Client","VM":{"name":"Windows 7 Gold x64 English #2"}}}
+,
+{"model":"VM","data":{"id":278,"name":"Windows XP SP2 x64 English #5 (with IE)","osName":"Windows XP SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"RDC 6.1 Installed","appName":"Remote Desktop Connection 6.1 Client","VM":{"name":"Windows XP SP2 x64 English #5 (with IE)"}}}
+,
+{"model":"SnapShot","data":{"name":"wmv9vcm.dll (codec) installed","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows XP SP2 x64 English #5 (with IE)"}}}
+,
+{"model":"VM","data":{"id":463,"name":"Win 8 x86 Gold #2","osName":"Windows 8 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Remote server administration Tool installed.","appName":"Remote Server Administration Tools","VM":{"name":"Win 8 x86 Gold #2"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.1","appName":".NET Framework 4.5.1","VM":{"name":"Win 8 x86 Gold #2"}}}
+,
+{"model":"VM","data":{"id":265,"name":"Windows Vista SP2 x86 English #2 (IE7)","osName":"Windows Vista SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Windows Media Video 9 VCM","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows Vista SP2 x86 English #2 (IE7)"}}}
+,
+{"model":"VM","data":{"id":545,"name":"Windows 2003 SP2 x86 English #10","osName":"Windows Server 2003 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"wmv9vcm.dll (codec)","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows 2003 SP2 x86 English #10"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows 2003 SP2 x86 English #10"}}}
+,
+{"model":"SnapShot","data":{"name":"Radius Server Enabled","appName":"Radius Server Enabled","VM":{"name":"Windows 2003 SP2 x86 English #10"}}}
+,
+{"model":"SnapShot","data":{"name":"Telnet enabled","appName":"Telnet enabled","VM":{"name":"Windows 2003 SP2 x86 English #10"}}}
+,
+{"model":"VM","data":{"id":541,"name":"Windows 2008 SP2 x64 English #4","osName":"Windows Server 2008 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Desktop Features are enabled","appName":"Desktop Exp","VM":{"name":"Windows 2008 SP2 x64 English #4"}}}
+,
+{"model":"SnapShot","data":{"name":"wmv9vcm.dll installed","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows 2008 SP2 x64 English #4"}}}
+,
+{"model":"SnapShot","data":{"name":"Group Policy Management installed","appName":"Group Policy Management","VM":{"name":"Windows 2008 SP2 x64 English #4"}}}
+,
+{"model":"SnapShot","data":{"name":"Radius Server Enabled","appName":"Radius Server Enabled","VM":{"name":"Windows 2008 SP2 x64 English #4"}}}
+,
+{"model":"VM","data":{"id":275,"name":"Windows XP SP3 x86 .NET Framework #1 English","osName":"Windows XP SP3"}}
+,
+{"model":"SnapShot","data":{"name":"media format runtime 11","appName":"Windows Media Format Runtime 11","VM":{"name":"Windows XP SP3 x86 .NET Framework #1 English"}}}
+,
+{"model":"SnapShot","data":{"name":"wmv9vcm","appName":"wmv9vcm.dll (codec)","VM":{"name":"Windows XP SP3 x86 .NET Framework #1 English"}}}
+,
+{"model":"VM","data":{"id":657,"name":"Windows 2012 Gold x64 English #2","osName":"Windows Server 2012 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"ADFS 2.1","appName":"Active Directory Federation Services 2.1","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"AD LDS Installed","appName":"Active Directory","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Group Policy Management installed","appName":"Group Policy Management","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"iSCSI Target Server","appName":"iSCSI Software Target 3.3","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"IIS 8.0","appName":"Microsoft Internet Information Services 8.0","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Radius Server Enabled","appName":"Radius Server Enabled","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"NA","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.2","appName":".NET Framework 4.6.2","VM":{"name":"Windows 2012 Gold x64 English #2"}}}
+,
+{"model":"VM","data":{"id":289,"name":"Windows 2003 R2 SP2 x64 English #1","osName":"Windows Server 2003 R2 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Windows 2003 R2 SP2 ADFS 1.0.0.0 installed","appName":"Active Directory Federation Services 1.x","VM":{"name":"Windows 2003 R2 SP2 x64 English #1"}}}
+,
+{"model":"VM","data":{"id":584,"name":"Windows 8.1 x86 English #5","osName":"Windows 8.1 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":".NET Framework 4.6","VM":{"name":"Windows 8.1 x86 English #5"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2919355","appName":".NET Framework 4.5.1","VM":{"name":"Windows 8.1 x86 English #5"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"Windows 8.1 x86 English #5"}}}
+,
+{"model":"VM","data":{"id":574,"name":"Windows 8.1 x64 English #5","osName":"Windows 8.1 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"NA","VM":{"name":"Windows 8.1 x64 English #5"}}}
+,
+{"model":"SnapShot","data":{"name":"KB2919355","appName":".NET Framework 4.5.1","VM":{"name":"Windows 8.1 x64 English #5"}}}
+,
+{"model":"VM","data":{"id":658,"name":"Windows 2012 R2 x64 English #2","osName":"Windows Server 2012 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Internet Explorer 11","VM":{"name":"Windows 2012 R2 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 2012 R2 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.2","appName":".NET Framework 4.6.2","VM":{"name":"Windows 2012 R2 x64 English #2"}}}
+,
+{"model":"VM","data":{"id":297,"name":"Windows 7 x64 Office 2010 Professional Plus #1","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 SP1 - Installed","appName":"Office 2010 SP1 x64","VM":{"name":"Windows 7 x64 Office 2010 Professional Plus #1"}}}
+,
+{"model":"VM","data":{"id":568,"name":"Win7 SP1 x86 Office 2013 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2013 x86 SP1 Installed","appName":"Office 2013 x32 SP1","VM":{"name":"Win7 SP1 x86 Office 2013 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2013 x86 Installed","appName":"Office 2013 SP0 x32","VM":{"name":"Win7 SP1 x86 Office 2013 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Skype for Business (KB2889853 + KB2863908 + KB2889923)","appName":"Skype for Business x32","VM":{"name":"Win7 SP1 x86 Office 2013 x86"}}}
+,
+{"model":"VM","data":{"id":573,"name":"Windows 7 Gold English x64 Office 2007 #1","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2007 SP3 Installed - full","appName":"Office 2007 x64","VM":{"name":"Windows 7 Gold English x64 Office 2007 #1"}}}
+,
+{"model":"SnapShot","data":{"name":"office 2007 sp3 full and onenote","appName":"Office 2007 x32 on x64","VM":{"name":"Windows 7 Gold English x64 Office 2007 #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Japanese Language Pack SP3 Installed","appName":"Office 2007 IME x64","VM":{"name":"Windows 7 Gold English x64 Office 2007 #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Powerpoint viewer installed","appName":"Powerpoint Viewer 2010 x86 on x64","VM":{"name":"Windows 7 Gold English x64 Office 2007 #1"}}}
+,
+{"model":"VM","data":{"id":305,"name":"Windows 2003 SP2 x64 English #4 Office 2003 SP3 PwrPt 2003","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2003 SP3 PwrPt 2003 SP# Installed","appName":"Office 2003 x64","VM":{"name":"Windows 2003 SP2 x64 English #4 Office 2003 SP3 PwrPt 2003"}}}
+,
+{"model":"VM","data":{"id":371,"name":"Windows 7 x64 Office 2010 Professional Plus x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"office sp1 full x64","appName":"Office 2010 SP1 x64","VM":{"name":"Windows 7 x64 Office 2010 Professional Plus x64"}}}
+,
+{"model":"SnapShot","data":{"name":"office 2010 sp2 full x64","appName":"Office 2010 Service Pack 2 x64","VM":{"name":"Windows 7 x64 Office 2010 Professional Plus x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 x64 SP2 Installed.","appName":"visio viewer 2010 x64","VM":{"name":"Windows 7 x64 Office 2010 Professional Plus x64"}}}
+,
+{"model":"VM","data":{"id":307,"name":"Windows 7 x64 Office 2013 Professional Plus x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2013 x64 Professional Plus - Installed","appName":"Office 2013 SP0 x64","VM":{"name":"Windows 7 x64 Office 2013 Professional Plus x64"}}}
+,
+{"model":"VM","data":{"id":308,"name":"Win 7 SP1 x64 Office 2013 Professional Plus x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2013 x64 SP1 installed","appName":"Office 2013 x64","VM":{"name":"Win 7 SP1 x64 Office 2013 Professional Plus x64"}}}
+,
+{"model":"VM","data":{"id":571,"name":"Win7 SP1 Lync Basic 2013","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Lync 2013 Basic Installed","appName":"Lync Basic 2013 x86","VM":{"name":"Win7 SP1 Lync Basic 2013"}}}
+,
+{"model":"SnapShot","data":{"name":"Lync Basic 2013 SP1","appName":"Lync Basic 2013 x86 SP1","VM":{"name":"Win7 SP1 Lync Basic 2013"}}}
+,
+{"model":"SnapShot","data":{"name":"Skype for Business (KB2889853 + KB2863908 + KB2889923)","appName":"Skype for Business Basic x32","VM":{"name":"Win7 SP1 Lync Basic 2013"}}}
+,
+{"model":"VM","data":{"id":572,"name":"Win7 SP1 Lync Basic 2013 (x64)","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Lync Basic 2013 x86","appName":"Lync Basic 2013 x86 on x64 sys","VM":{"name":"Win7 SP1 Lync Basic 2013 (x64)"}}}
+,
+{"model":"SnapShot","data":{"name":"Lync Basic 2013 x64 Installed","appName":"Lync Basic 2013 x64","VM":{"name":"Win7 SP1 Lync Basic 2013 (x64)"}}}
+,
+{"model":"SnapShot","data":{"name":"Lync Basic 2013 SP1 x64","appName":"Lync Basic 2013 x64 SP1","VM":{"name":"Win7 SP1 Lync Basic 2013 (x64)"}}}
+,
+{"model":"SnapShot","data":{"name":"Skype for Business (KB2889853 + KB2863908 + KB2889923)","appName":"Skype for Business Basic x64","VM":{"name":"Win7 SP1 Lync Basic 2013 (x64)"}}}
+,
+{"model":"VM","data":{"id":321,"name":"Win 2008 R2 SP1 x64 Visio 2010 x64 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Visio 2010 Service Pack2 Installed","appName":"Visio 2010 SP2 x86 on x64 sys","VM":{"name":"Win 2008 R2 SP1 x64 Visio 2010 x64 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio 2010 x64 SP2 Installed","appName":"Visio 2010 SP2 x64","VM":{"name":"Win 2008 R2 SP1 x64 Visio 2010 x64 x86"}}}
+,
+{"model":"VM","data":{"id":536,"name":"Windows 7 x64 Office 2013 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2013 x86 SP1","appName":"Office 2013 x32 on x64","VM":{"name":"Windows 7 x64 Office 2013 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2013 x86 Installed","appName":"Office 2013 SP0 x32 on x64","VM":{"name":"Windows 7 x64 Office 2013 x86"}}}
+,
+{"model":"VM","data":{"id":322,"name":"Sharepoint 2010 win2k8 R2 SP1 English","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint 2010 SP2","appName":"Sharepoint Server 2010","VM":{"name":"Sharepoint 2010 win2k8 R2 SP1 English"}}}
+,
+{"model":"VM","data":{"id":333,"name":"Win 2008 R2 SP1 x64 - Visio 2013 x64 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2013 x64 Installed","appName":"Visio Viewer 2013 x64","VM":{"name":"Win 2008 R2 SP1 x64 - Visio 2013 x64 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2013 x64 SP1 Installed","appName":"Visio Viewer 2013 x64 SP1","VM":{"name":"Win 2008 R2 SP1 x64 - Visio 2013 x64 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2013 x86 Installed","appName":"Visio Viewer 2013 x86 on x64 sys","VM":{"name":"Win 2008 R2 SP1 x64 - Visio 2013 x64 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2013 x86 SP1 Installed","appName":"Visio Viewer 2013 x86 on x64 sys SP1","VM":{"name":"Win 2008 R2 SP1 x64 - Visio 2013 x64 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Professional 2013 x86 SP1 Installed","appName":"Visio 2013 x86 on x64 sys","VM":{"name":"Win 2008 R2 SP1 x64 - Visio 2013 x64 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Professional 2013 x64 SP1 Installed","appName":"Visio 2013 x64","VM":{"name":"Win 2008 R2 SP1 x64 - Visio 2013 x64 x86"}}}
+,
+{"model":"VM","data":{"id":334,"name":"Windows 7 Gold x86 Visio 2013","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2013 x86 Installed","appName":"Visio Viewer 2013 x86","VM":{"name":"Windows 7 Gold x86 Visio 2013"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2013 x86 SP1 Installed","appName":"Visio Viewer 2013 x86","VM":{"name":"Windows 7 Gold x86 Visio 2013"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Professional 2013 x86 SP1 Installed","appName":"Visio 2013 x86","VM":{"name":"Windows 7 Gold x86 Visio 2013"}}}
+,
+{"model":"VM","data":{"id":589,"name":"Windows 2012 R2 x64 English #1","osName":"Windows Server 2012 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"KB2919355","appName":".NET Framework 3.5","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Group Policy Management installed","appName":"Group Policy Management","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Group Policy Management installed with KB2919355","appName":"Group Policy Management with KB2919355","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"iSCSI Target Server","appName":"iSCSI Software Target 3.3","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Desktop Experience enabled","appName":"Desktop Exp","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Ink and Handwriting installed","appName":"Ink and Handwriting","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ServerCoreEdition .net 3.5 PsExec KB2919355","appName":".NET Framework 3.5 for Windows Server 2012 R2 Gold x64","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"AD FS installed","appName":"Active Directory Federation Services 3.0","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Radius Server Enabled","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"HyperV","appName":"Hyper V","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 2012 R2 x64 English #1"}}}
+,
+{"model":"VM","data":{"id":342,"name":"Windows 8 Sharepoint 2013","osName":"Windows 8"}}
+,
+{"model":"SnapShot","data":{"name":"SharePoint Server 2013 Client Components SDK 32-bit","appName":"SharePoint Server 2013 Client Components SDK x32","VM":{"name":"Windows 8 Sharepoint 2013"}}}
+,
+{"model":"VM","data":{"id":343,"name":"SharePoint Server 2013 Win2K8 R2 SP1 DotNet 4.5 English","osName":"Windows Server 2008 R2 SP1 x64 English"}}
+,
+{"model":"SnapShot","data":{"name":"SharePoint Server 2013 Client Components SDK 64-bit","appName":"SharePoint Server 2013 Client Components SDK x64","VM":{"name":"SharePoint Server 2013 Win2K8 R2 SP1 DotNet 4.5 English"}}}
+,
+{"model":"VM","data":{"id":609,"name":"Win7 SP1 x86 - Sharepoint Designer 2010 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"sharepoint designer 2007 SP3 installed","appName":"SharePoint Designer 2007 SP3 x32","VM":{"name":"Win7 SP1 x86 - Sharepoint Designer 2010 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x86 SP1","appName":"Sharepoint Designer 2010 x32 SP1","VM":{"name":"Win7 SP1 x86 - Sharepoint Designer 2010 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x86 SP2","appName":"Sharepoint Designer 2010 x32","VM":{"name":"Win7 SP1 x86 - Sharepoint Designer 2010 x86"}}}
+,
+{"model":"VM","data":{"id":607,"name":"Win 7 Gold x64 - Sharepoint Designer 2010 x64x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"sharepoint designer 2007 SP3 installed","appName":"SharePoint Designer 2007 SP3 x64","VM":{"name":"Win 7 Gold x64 - Sharepoint Designer 2010 x64x86"}}}
+,
+{"model":"SnapShot","data":{"name":"sharepoint designer 2007 installed","appName":"Sharepoint Designer 2007 on x64","VM":{"name":"Win 7 Gold x64 - Sharepoint Designer 2010 x64x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x86 SP2","appName":"Sharepoint Designer 2010 x32 on x64","VM":{"name":"Win 7 Gold x64 - Sharepoint Designer 2010 x64x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x64 SP2","appName":"Sharepoint Designer 2010 x64","VM":{"name":"Win 7 Gold x64 - Sharepoint Designer 2010 x64x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x86 SP1","appName":"Sharepoint Designer 2010 x32 on x64 SP1","VM":{"name":"Win 7 Gold x64 - Sharepoint Designer 2010 x64x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x64 SP1","appName":"Sharepoint Designer 2010 x64 SP1","VM":{"name":"Win 7 Gold x64 - Sharepoint Designer 2010 x64x86"}}}
+,
+{"model":"VM","data":{"id":655,"name":"Windows 8.1 x86 English #1","osName":"Windows 8.1 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed","appName":"Remote Server Administration Tools","VM":{"name":"Windows 8.1 x86 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed with KB2919355","appName":"Remote Server Administration Tools with KB2919355","VM":{"name":"Windows 8.1 x86 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Microsoft Internet Information Services 8.5","VM":{"name":"Windows 8.1 x86 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 8.1 x86 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.2","appName":".NET Framework 4.6.2","VM":{"name":"Windows 8.1 x86 English #1"}}}
+,
+{"model":"VM","data":{"id":559,"name":"Windows 8.1 x64 English #1","osName":"Windows 8.1 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed","appName":"Remote Server Administration Tools","VM":{"name":"Windows 8.1 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Remote Server Administration Tools installed with KB2919355","appName":"Remote Server Administration Tools with KB2919355","VM":{"name":"Windows 8.1 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"Windows 8.1 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"clean","appName":"Clean","VM":{"name":"Windows 8.1 x64 English #1"}}}
+,
+{"model":"VM","data":{"id":540,"name":"Windows 2008 SP2 x86 English #3 (IE 7)","osName":"Windows Server 2008 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Group Policy Management installed","appName":"Group Policy Management","VM":{"name":"Windows 2008 SP2 x86 English #3 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Desktop Experience (Media Player!)","appName":"Desktop Exp","VM":{"name":"Windows 2008 SP2 x86 English #3 (IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"Radius Server Enabled","appName":"Radius Server Enabled","VM":{"name":"Windows 2008 SP2 x86 English #3 (IE 7)"}}}
+,
+{"model":"VM","data":{"id":542,"name":"Windows Server 2008 R2 SP1 English with IE (Enterprise)","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"iSCSI Target Server","appName":"iSCSI Software Target 3.3","VM":{"name":"Windows Server 2008 R2 SP1 English with IE (Enterprise)"}}}
+,
+{"model":"SnapShot","data":{"name":"Ink and Handwriting installed","appName":"Ink and Handwriting","VM":{"name":"Windows Server 2008 R2 SP1 English with IE (Enterprise)"}}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows Server 2008 R2 SP1 English with IE (Enterprise)"}}}
+,
+{"model":"SnapShot","data":{"name":"Radius Server Enabled","appName":"Radius Server Enabled","VM":{"name":"Windows Server 2008 R2 SP1 English with IE (Enterprise)"}}}
+,
+{"model":"VM","data":{"id":369,"name":"Windows 7 SP1 x86 Visio Viewer","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2010 SP2 (32 bit) installed","appName":"visio viewer 2010 x32","VM":{"name":"Windows 7 SP1 x86 Visio Viewer"}}}
+,
+{"model":"VM","data":{"id":370,"name":"Windows 7 SP1 x64 Visio Viewer","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2010 SP2 (32 bit) installed","appName":"visio viewer 2010 x32 on x64","VM":{"name":"Windows 7 SP1 x64 Visio Viewer"}}}
+,
+{"model":"VM","data":{"id":603,"name":"Sharepoint 2013 win2k8 R2 SP1 English","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Server 2013 new SP1","appName":"Sharepoint Server 2013 SP1","VM":{"name":"Sharepoint 2013 win2k8 R2 SP1 English"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Server 2013 Installed","appName":"Sharepoint Server 2013 SP0","VM":{"name":"Sharepoint 2013 win2k8 R2 SP1 English"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x64 SP1 installed","appName":"Sharepoint Designer 2013 x64","VM":{"name":"Sharepoint 2013 win2k8 R2 SP1 English"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer x86 SP1 installed","appName":"Sharepoint Designer 2013 x32 on x64","VM":{"name":"Sharepoint 2013 win2k8 R2 SP1 English"}}}
+,
+{"model":"VM","data":{"id":375,"name":"Win 2k8 R2 Lync 2010 Server","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft Lync 2010 x64","appName":"Lync 2010 Server","VM":{"name":"Win 2k8 R2 Lync 2010 Server"}}}
+,
+{"model":"VM","data":{"id":382,"name":"Windows 2003 SP2 x86 with Office 2010","osName":"Windows Server 2003 SP2"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 Standard x86 SP1","appName":"Office 2010 SP1 x32","VM":{"name":"Windows 2003 SP2 x86 with Office 2010"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 Standard x86 SP2","appName":"Office 2010 SP2 x32","VM":{"name":"Windows 2003 SP2 x86 with Office 2010"}}}
+,
+{"model":"VM","data":{"id":384,"name":"Windows 2003 SP2 x64 with Office 2010","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 Standard x86 SP1","appName":"Office 2010 SP1 x32 on x64","VM":{"name":"Windows 2003 SP2 x64 with Office 2010"}}}
+,
+{"model":"SnapShot","data":{"name":"Office 2010 Standard x86 SP2","appName":"Office 2010 SP2 x32 on x64","VM":{"name":"Windows 2003 SP2 x64 with Office 2010"}}}
+,
+{"model":"VM","data":{"id":389,"name":"Win 2k8 R2 Lync 2010 Server (x64)","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Lync 2010 CU Sep 2014","appName":"Lync Server 2010","VM":{"name":"Win 2k8 R2 Lync 2010 Server (x64)"}}}
+,
+{"model":"VM","data":{"id":390,"name":"Win 2k8 R2 Lync Server 2013 (x64)","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Lync 2013 CU Sep 2014","appName":"Lync Server 2013","VM":{"name":"Win 2k8 R2 Lync Server 2013 (x64)"}}}
+,
+{"model":"VM","data":{"id":582,"name":"Win 8 Gold  x86 .NET Framework English #1","osName":"Windows 8 Gold"}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Win 8 Gold  x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".net 3.5","appName":".NET Framework 3.5","VM":{"name":"Win 8 Gold  x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"Win 8 Gold  x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Win 8 Gold  x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Win 8 Gold  x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Win 8 Gold  x86 .NET Framework English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Win 8 Gold  x86 .NET Framework English #1"}}}
+,
+{"model":"VM","data":{"id":394,"name":"Windows 8 Gold x64 #1","osName":"Windows 8 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows 8 Gold x64 #1"}}}
+,
+{"model":"VM","data":{"id":397,"name":"Windows Server 2008 R2 SP1 English #1 - Service Bus","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Service Bus 1.0","appName":"Service Bus 1.0","VM":{"name":"Windows Server 2008 R2 SP1 English #1 - Service Bus"}}}
+,
+{"model":"SnapShot","data":{"name":"Service Bus 1.1","appName":"Service Bus 1.1","VM":{"name":"Windows Server 2008 R2 SP1 English #1 - Service Bus"}}}
+,
+{"model":"VM","data":{"id":414,"name":"Windows 2012 Gold x64 English #3","osName":"Windows Server 2012 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Ink and Handwriting installed","appName":"Ink and Handwriting","VM":{"name":"Windows 2012 Gold x64 English #3"}}}
+,
+{"model":"SnapShot","data":{"name":"ServerCoreEdition .net 3.5 PsExec","appName":".NET Framework 3.5 for windows server 2012 Gold x64","VM":{"name":"Windows 2012 Gold x64 English #3"}}}
+,
+{"model":"VM","data":{"id":404,"name":"Windows 2012 Gold x64 English #1 - Service Bus","osName":"Windows Server 2012 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Service Bus 1.1","appName":"Service Bus 1.1","VM":{"name":"Windows 2012 Gold x64 English #1 - Service Bus"}}}
+,
+{"model":"VM","data":{"id":405,"name":"Windows 2012 R2 x64 English #1 - Service Bus","osName":"Windows Server 2012 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Service Bus 1.1","appName":"Service Bus 1.1","VM":{"name":"Windows 2012 R2 x64 English #1 - Service Bus"}}}
+,
+{"model":"VM","data":{"id":537,"name":"Office Web Apps Server2013","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"OWA 2013 new SP1","appName":"Office Web Apps 2013 SP 1","VM":{"name":"Office Web Apps Server2013"}}}
+,
+{"model":"SnapShot","data":{"name":"OWA2013 installed","appName":"Office Web Apps 2013 SP0","VM":{"name":"Office Web Apps Server2013"}}}
+,
+{"model":"VM","data":{"id":409,"name":"Windows 2008 R2 SP1 x64 - SharePoint Foundation 2013","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SharePoint Foundation 2013","appName":"SharePoint Foundation 2013","VM":{"name":"Windows 2008 R2 SP1 x64 - SharePoint Foundation 2013"}}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint foundation 2013 new SP1","appName":"SharePoint Foundation 2013 SP1","VM":{"name":"Windows 2008 R2 SP1 x64 - SharePoint Foundation 2013"}}}
+,
+{"model":"VM","data":{"id":413,"name":"Windows Server 2008 R2 SP1 x64 Server Core","osName":"Windows Server 2008 R2 SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":".net 3.5.1","appName":".NET Framework 3.5.1 for Windows Server 2008 R2 SP1 x64","VM":{"name":"Windows Server 2008 R2 SP1 x64 Server Core"}}}
+,
+{"model":"VM","data":{"id":422,"name":"Windows 7 SP1 x86 SQL Server 2012","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Full feature SP1 installed","appName":"SQL Server 2012 SP1","VM":{"name":"Windows 7 SP1 x86 SQL Server 2012"}}}
+,
+{"model":"VM","data":{"id":423,"name":"Windows 2008 R2 SP1 x64 SQL Server 2012","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server 2012 x64 SP1 installed","appName":"SQL Server 2012 SP1 x64","VM":{"name":"Windows 2008 R2 SP1 x64 SQL Server 2012"}}}
+,
+{"model":"VM","data":{"id":424,"name":"Windows 2008 R2 SP1 x64 SQL Server 2014","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SQL Server 2014 x64 installed","appName":"SQL Server 2014 x64","VM":{"name":"Windows 2008 R2 SP1 x64 SQL Server 2014"}}}
+,
+{"model":"VM","data":{"id":581,"name":"Windows 8 Gold x64 .NET Framework #1","osName":"Windows 8 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.2 installed","appName":".NET Framework 4.5.2","VM":{"name":"Windows 8 Gold x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 2 installed","appName":"ASP.NET MVC 2.0","VM":{"name":"Windows 8 Gold x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 3 installed","appName":"ASP.NET MVC 3.0","VM":{"name":"Windows 8 Gold x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":"ASP .NET MVC 4 installed","appName":"ASP.NET MVC 4.0","VM":{"name":"Windows 8 Gold x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.1 Installed","appName":".NET Framework 4.5.1","VM":{"name":"Windows 8 Gold x64 .NET Framework #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 8 Gold x64 .NET Framework #1"}}}
+,
+{"model":"VM","data":{"id":514,"name":"Windows 2012 R2 x64 English #3","osName":"Windows Server 2012 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":".net 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"Windows 2012 R2 x64 English #3"}}}
+,
+{"model":"SnapShot","data":{"name":"IIS 8.5","appName":"Microsoft Internet Information Services 8.5","VM":{"name":"Windows 2012 R2 x64 English #3"}}}
+,
+{"model":"VM","data":{"id":450,"name":"Windows 2003 SP2 x86 English - Sharepoint Designer 2007","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer 2007","appName":"Sharepoint Designer 2007","VM":{"name":"Windows 2003 SP2 x86 English - Sharepoint Designer 2007"}}}
+,
+{"model":"VM","data":{"id":455,"name":"Silverlight_Win2k8SP2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Silverlight5 installed","appName":"Silverlight 5","VM":{"name":"Silverlight_Win2k8SP2"}}}
+,
+{"model":"SnapShot","data":{"name":"Silverlight 5 Developer Runtime installed","appName":"Silverlight 5 Developers","VM":{"name":"Silverlight_Win2k8SP2"}}}
+,
+{"model":"VM","data":{"id":456,"name":"Silverlight_Win2k8R2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Silverlight 5 x86 installed.","appName":"Silverlight 5 x32 on x64","VM":{"name":"Silverlight_Win2k8R2"}}}
+,
+{"model":"SnapShot","data":{"name":"Silverlight 5 Installed","appName":"Silverlight 5 x64","VM":{"name":"Silverlight_Win2k8R2"}}}
+,
+{"model":"SnapShot","data":{"name":"Silverlight 5 x86 for Developers installed.","appName":"Silverlight 5 Developers x32 on x64","VM":{"name":"Silverlight_Win2k8R2"}}}
+,
+{"model":"VM","data":{"id":457,"name":"Silverlight_Win7","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Silverlight 5 Developer Runtime installed","appName":"Silverlight 5 Developers x64","VM":{"name":"Silverlight_Win7"}}}
+,
+{"model":"VM","data":{"id":656,"name":"Windows 8.1 x64 English #2","osName":"Windows 8.1 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.5.2","appName":".NET Framework 4.5.2","VM":{"name":"Windows 8.1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6 Installed","appName":".NET Framework 4.6","VM":{"name":"Windows 8.1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 8.1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.2","appName":".NET Framework 4.6.2","VM":{"name":"Windows 8.1 x64 English #2"}}}
+,
+{"model":"VM","data":{"id":516,"name":"Windows 8.1 Gold x64","osName":"Windows 8.1 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"complete2","appName":"Microsoft Internet Information Services 8.5","VM":{"name":"Windows 8.1 Gold x64"}}}
+,
+{"model":"VM","data":{"id":637,"name":"Windows Vista SP1 x86 English #1 (with IE 7)","osName":"Windows Vista SP1"}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows Vista SP1 x86 English #1 (with IE 7)"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"IE8","VM":{"name":"Windows Vista SP1 x86 English #1 (with IE 7)"}}}
+,
+{"model":"VM","data":{"id":636,"name":"Windows Vista SP1 x64 English #2","osName":"Windows Vista SP1 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Microsoft IME (Japanese) installed","appName":"Microsoft IME (Japanese)","VM":{"name":"Windows Vista SP1 x64 English #2"}}}
+,
+{"model":"SnapShot","data":{"name":"IE8 Installed","appName":"IE8","VM":{"name":"Windows Vista SP1 x64 English #2"}}}
+,
+{"model":"VM","data":{"id":526,"name":"Windows XP SP2 x64 English #6 Office 2003 SP3 2003","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Word viewer sp3 installed","appName":"Word Viewer SP3 x32 on x64","VM":{"name":"Windows XP SP2 x64 English #6 Office 2003 SP3 2003"}}}
+,
+{"model":"VM","data":{"id":528,"name":"Windows 8 Professional x64","osName":"Windows 8 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"IIS 8.0","appName":"Microsoft Internet Information Services 8.0","VM":{"name":"Windows 8 Professional x64"}}}
+,
+{"model":"VM","data":{"id":532,"name":"Win2K8R2SP1- sharepoint 2013","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"With PU KB2767999 installed.","appName":"Sharepoint Server 2013 SP0","VM":{"name":"Win2K8R2SP1- sharepoint 2013"}}}
+,
+{"model":"VM","data":{"id":546,"name":"Windows 2003 SP2 x64 English #1","osName":"Windows Server 2003 SP2 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Telnet enabled","appName":"Telnet enabled","VM":{"name":"Windows 2003 SP2 x64 English #1"}}}
+,
+{"model":"VM","data":{"id":552,"name":"System Center 2012 R2 Virtual Machine Manager","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"kb2992024 update rollup 4 for SC2012R2VMM","appName":"Virtual Machine Manager 2012 R2 UR4","VM":{"name":"System Center 2012 R2 Virtual Machine Manager"}}}
+,
+{"model":"SnapShot","data":{"name":"kb3011473 update rollup 5 preview for SC2012R2VMM","appName":"Virtual Machine Manager 2012 R2 UR5","VM":{"name":"System Center 2012 R2 Virtual Machine Manager"}}}
+,
+{"model":"VM","data":{"id":564,"name":"Windows 7 Gold x64 Project 2010","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Project 2010 x64 SP2 installed","appName":"Project 2010 x64","VM":{"name":"Windows 7 Gold x64 Project 2010"}}}
+,
+{"model":"SnapShot","data":{"name":"Project 2010 x86 SP2 installed","appName":"Project 2010 x32 on x64","VM":{"name":"Windows 7 Gold x64 Project 2010"}}}
+,
+{"model":"VM","data":{"id":555,"name":"Windows 7 Gold x64 with Project 2013 x86/x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Project 2013 x64 SP1 installed","appName":"Project 2013 x64","VM":{"name":"Windows 7 Gold x64 with Project 2013 x86/x64"}}}
+,
+{"model":"SnapShot","data":{"name":"Project 2013 x86 SP1 installed","appName":"Project 2013 x32 on x64","VM":{"name":"Windows 7 Gold x64 with Project 2013 x86/x64"}}}
+,
+{"model":"VM","data":{"id":615,"name":"Windows 7 x86 Gold with Project 2010/2013 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Project 2013 x86 SP1","appName":"Project 2013 x32","VM":{"name":"Windows 7 x86 Gold with Project 2010/2013 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"Project 2010 x86 SP2","appName":"Project 2010 x32","VM":{"name":"Windows 7 x86 Gold with Project 2010/2013 x86"}}}
+,
+{"model":"SnapShot","data":{"name":"SP3 installed","appName":"Project 2007 SP3","VM":{"name":"Windows 7 x86 Gold with Project 2010/2013 x86"}}}
+,
+{"model":"VM","data":{"id":562,"name":"Windows 8.1 x64 English #3","osName":"Windows 8.1 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Hyper V Installed","appName":"Hyper V","VM":{"name":"Windows 8.1 x64 English #3"}}}
+,
+{"model":"VM","data":{"id":565,"name":"Windows 2008 R2 SP1 x64 Project Server 2013","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Project Server 2013 new SP1","appName":"Project Server 2013","VM":{"name":"Windows 2008 R2 SP1 x64 Project Server 2013"}}}
+,
+{"model":"VM","data":{"id":639,"name":"Office 2007 SP1","osName":"Windows XP SP3"}}
+,
+{"model":"SnapShot","data":{"name":"Visio 2007 SP3","appName":"Visio 2007","VM":{"name":"Office 2007 SP1"}}}
+,
+{"model":"SnapShot","data":{"name":"Visio Viewer 2007 SP3","appName":"Visio Viewer 2007 SP3","VM":{"name":"Office 2007 SP1"}}}
+,
+{"model":"VM","data":{"id":567,"name":"Visio 2007 Professional SP2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"visio 2007 SP3 installed","appName":"Visio 2007 SP3","VM":{"name":"Visio 2007 Professional SP2"}}}
+,
+{"model":"VM","data":{"id":569,"name":"Win7 SP1 x64 Office 2013 Professional Plus x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Skype for Business (KB2889853 + KB2863908 + KB2889923)","appName":"Skype for Business x64","VM":{"name":"Win7 SP1 x64 Office 2013 Professional Plus x64"}}}
+,
+{"model":"VM","data":{"id":570,"name":"Winows 7 x64 Office 2013 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Skype for Business x86 (KB2889853 + KB2863908 + KB2889923)","appName":"Skype for Business x32 on x64","VM":{"name":"Winows 7 x64 Office 2013 x86"}}}
+,
+{"model":"VM","data":{"id":621,"name":"Windows 10 x86 English #1","osName":"Windows 10 Gold"}}
+,
+{"model":"SnapShot","data":{"name":"Current","appName":".NET Framework 4.6","VM":{"name":"Windows 10 x86 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 3.0 and 3.5 with IE 11","appName":".NET Framework 3.5","VM":{"name":"Windows 10 x86 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Clean","VM":{"name":"Windows 10 x86 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 10 x86 English #1"}}}
+,
+{"model":"VM","data":{"id":620,"name":"Windows 10 x64 English #1","osName":"Windows 10 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Current","appName":".NET Framework 4.6","VM":{"name":"Windows 10 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 3.0 and 3.5 with IE 11","appName":".NET Framework 3.5","VM":{"name":"Windows 10 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Clean","VM":{"name":"Windows 10 x64 English #1"}}}
+,
+{"model":"SnapShot","data":{"name":".NET 4.6.1","appName":".NET Framework 4.6.1","VM":{"name":"Windows 10 x64 English #1"}}}
+,
+{"model":"VM","data":{"id":602,"name":"Windows 7 SP1 x86 - Sharepoint Designer 2013 x86","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Sharepoint Designer 2013 x86 SP1 installed","appName":"Sharepoint Designer 2013 x32","VM":{"name":"Windows 7 SP1 x86 - Sharepoint Designer 2013 x86"}}}
+,
+{"model":"VM","data":{"id":610,"name":"Windows 7 x86 with office 2016 x32","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2016 x32 installed","appName":"Office 2016 x32","VM":{"name":"Windows 7 x86 with office 2016 x32"}}}
+,
+{"model":"VM","data":{"id":611,"name":"Win 10 with office 2016 x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2016 x64","appName":"Office 2016 x64","VM":{"name":"Win 10 with office 2016 x64"}}}
+,
+{"model":"VM","data":{"id":612,"name":"Win 2012 R2 with Office 2016 x32","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Office 2016 x32 on x64","appName":"Office 2016 x32 on x64","VM":{"name":"Win 2012 R2 with Office 2016 x32"}}}
+,
+{"model":"VM","data":{"id":648,"name":"Windows 10 x86 English 1511","osName":"Windows 10 1511"}}
+,
+{"model":"SnapShot","data":{"name":"Current","appName":"NA","VM":{"name":"Windows 10 x86 English 1511"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Clean","VM":{"name":"Windows 10 x86 English 1511"}}}
+,
+{"model":"SnapShot","data":{"name":"KB3176943 installed","appName":"KB3176943","VM":{"name":"Windows 10 x86 English 1511"}}}
+,
+{"model":"VM","data":{"id":649,"name":"Windows 10 x64 English 1511","osName":"Windows 10 1511 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Current","appName":"NA","VM":{"name":"Windows 10 x64 English 1511"}}}
+,
+{"model":"SnapShot","data":{"name":"Complete","appName":"Clean","VM":{"name":"Windows 10 x64 English 1511"}}}
+,
+{"model":"SnapShot","data":{"name":"KB3176493 installed","appName":"KB3176493","VM":{"name":"Windows 10 x64 English 1511"}}}
+,
+{"model":"VM","data":{"id":638,"name":"Windows 2012 R2 English - Office Online Server #1","osName":"Windows Server 2012 R2 Gold x64"}}
+,
+{"model":"SnapShot","data":{"name":"Office Online Server","appName":"Office Online Server","VM":{"name":"Windows 2012 R2 English - Office Online Server #1"}}}
+,
+{"model":"VM","data":{"id":642,"name":"Windows 2012 - Exchange Server 2013 #2","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"CU 12 Installed","appName":"Exchange Server 2013 CU12","VM":{"name":"Windows 2012 - Exchange Server 2013 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"CU 11 Installed","appName":"Exchange Server 2013 CU11","VM":{"name":"Windows 2012 - Exchange Server 2013 #2"}}}
+,
+{"model":"SnapShot","data":{"name":"CU 8 Installed","appName":"Exchange Server 2013 SP1","VM":{"name":"Windows 2012 - Exchange Server 2013 #2"}}}
+,
+{"model":"VM","data":{"id":643,"name":"Windows 2003 SP2 x64 English Exchange 2007 x64","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Exchange Server 2007 SP3","appName":"Exchange Server 2007 SP3","VM":{"name":"Windows 2003 SP2 x64 English Exchange 2007 x64"}}}
+,
+{"model":"VM","data":{"id":644,"name":"SharePoint Server 2016 Win2012R2 English","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"SharePoint 2016 Installed","appName":"SharePoint Server 2016","VM":{"name":"SharePoint Server 2016 Win2012R2 English"}}}
+,
+{"model":"VM","data":{"id":659,"name":"Windows 10 x64 English 1607","osName":"Windows 10 1607 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Jan CU","appName":"NA","VM":{"name":"Windows 10 x64 English 1607"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":".NET Framework 4.6.2","VM":{"name":"Windows 10 x64 English 1607"}}}
+,
+{"model":"VM","data":{"id":660,"name":"Windows 10 x86 English 1607","osName":"Windows 10 1607"}}
+,
+{"model":"SnapShot","data":{"name":"Feb CU","appName":"NA","VM":{"name":"Windows 10 x86 English 1607"}}}
+,
+{"model":"SnapShot","data":{"name":"Clean","appName":".NET Framework 4.6.2","VM":{"name":"Windows 10 x86 English 1607"}}}
+,
+{"model":"VM","data":{"id":647,"name":"Windows 2008 R2 SP1 x64 Project Server 2010","osName":"NA"}}
+,
+{"model":"SnapShot","data":{"name":"Project Server 2010 Installed (SP2)","appName":"Project Server 2010","VM":{"name":"Windows 2008 R2 SP1 x64 Project Server 2010"}}}
+,
+{"model":"VM","data":{"id":650,"name":"Windows Server 2016 GA","osName":"Windows Server 2016 x64"}}
+,
+{"model":"SnapShot","data":{"name":"Jan CU","appName":"NA","VM":{"name":"Windows Server 2016 GA"}}}
+,
+{"model":"VM","data":{"id":651,"name":"SQL Server 2016 Enterprise","osName":"Windows Server 2012 R2"}}
+,
+{"model":"SnapShot","data":{"name":"CU2 Installed","appName":"SQL Server 2016 CU2","VM":{"name":"SQL Server 2016 Enterprise"}}}
+]

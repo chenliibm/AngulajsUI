@@ -1,0 +1,67 @@
+<div class="container">
+  <!-- <div ng-class="{'col-md-12': !logTextArea, 'col-md-8':logTextArea}" > -->
+  <div class = "pull-right" style="margin:10px;">
+        <a class="glyphicon glyphicon-search"></a> <input type = "text" ng-model = "searchTC" placeholder= "Seach..." style="padding:5px">
+  </div>
+
+  <button type="button"  class="btn " id="ResmtBtn" ng-click = "resubmitTest()" style="margin:10px;" >
+    Submit Selected Test Cases
+  </button>
+
+  <table class="table table-striped table-condensed table-hover table-bordered">
+    <thead> 
+      <tr>
+        <th><input type ="checkbox" ng-model = "checkAllkey" ng-click = "checkToggle()"  >Selected All</th>
+        <th>No</th>
+        <th>Fixlet ID</th>
+        <!-- <th>TestCaseName</th> -->
+        <!-- <th>OSName</th> -->
+        <!-- <th>AppName</th> -->
+        <th>VMName</th>
+        <th>Snapshot</th>
+        <th>Status</th>
+        <th>Log</th>
+        <th>JobID</th>
+        <th>CreatedTime</th>
+        <th>UpdatedTime</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat = 'fix in detailJob | filter : searchTC' de-confirm>
+        <td> <input type = "checkbox" checklist-model="dicFailID" checklist-value="fix"> </input></td>
+        <td>{{$index}}</td>
+        <td>{{fix.fixletID}}</td>
+        <!-- <td>{{fix.testCaseName}}</td> -->
+        <!-- <td>{{fix.osName}}</td> -->
+        <!-- <td>{{fix.appName}}</td> -->
+        <td>{{fix.assignedVMName}}</td>
+        <td>{{fix.assignedVMSnapshot}}</td>
+        <td><span ng-class ="{greenPass: fix.status == 'PASSED', redFail: fix.status == 'FAILED'}" > {{fix.status}} </span></td>
+        <td ng-click = "showLog(fix)"><a>log</a></td>
+        <td>{{fix.JobId}}</td>
+        <td>{{fix.createdAt | date:'dd/MM/yyyy HH:mm'}}</td>
+        <td>{{fix.updatedAt | date:'dd/MM/yyyy HH:mm'}}</td>
+        <td align = "center" >
+        <span  ng-click = "killcase(fix.id)">
+          <span  data-toggle = "confirmation" data-placement = "top">
+            <span class ="glyphicon glyphicon-remove"  data-toggle = "tooltip" title = "Cancel"> </span>
+          </span>
+          <confirmtag></confirmtag>
+        </span> &nbsp &nbsp
+        <span class = "glyphicon glyphicon-send" data-toggle = "tooltip" title = "Re-Submit" ng-click = "singleFail(fix)"></span>
+        </td>
+      </tr>
+    </tbody>
+    <tfoot></tfoot>
+  </table>
+
+<hr>
+source <input type= "checkbox" ng-model = "showsourceTcase">
+<div ng-show = "showsourceTcase">
+  <pre>{{checkAllkey}}</pre>
+  <pre>{{dicFailID}}</pre>
+  <pre>{{selectedJobid}}</pre>
+  <pre>{{killornot}}</pre>
+</div>
+</div>

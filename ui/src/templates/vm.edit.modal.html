@@ -1,0 +1,70 @@
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" ng-click="$dismiss()">&times;</button>
+    <h3>{{vm.name}}</h3>
+    </div>
+    <div class="modal-body">
+        <form editable-form name="editableForm" onaftersave="saveVM()" e-form="editableForm">
+            <div>
+                <span class="title">VM Name: </span>
+                <span editable-text="vm.name" e-name="name" e-required> {{vm.name||'empty'}}</span>
+            </div>
+            
+            <div>
+                <span class="title" >VM Mapping: </span>
+                <span editable-text="vm.osName" e-name="osName" e-required> {{vm.osName||'empty'}}</span>
+            </div>
+            
+            <div>
+                <span class="title">VM Status: </span>
+                <span editable-checkbox="vm.active">{{ vm.active && "Active" || "Inactive"}}</span>
+            </div>
+
+            <div>
+                <span class="title">Occupied: </span>
+                <span editable-checkbox="vm.occupied">{{ vm.occupied && "Occupied" || "Free"}}</span>
+            </div>
+
+            <h2>Snapshots 
+                 <button class="btn btn-primary" ng-click="addSnapShot();editableForm.$show();">Add</button>
+            </h2>
+                
+
+            <div ng-repeat="snapshot in vm.SnapShots"> 
+                <h3>Snapshot: {{snapshot.name}}
+                     <button class="btn btn-danger" ng-click="removeSnapShot(snapshot)">Delete</button>
+                </h3>
+                <div>
+                    <span class="title">SnapShot Name: </span>
+                    <span editable-text="snapshot.name" e-name="name" e-required> {{snapshot.name||'empty'}}</span>
+                </div>
+                <div>
+                    <span class="title">App Mapping: </span>
+                    <span editable-text="snapshot.appName" e-name="osName" e-required> {{snapshot.appName||'empty'}}</span>
+                </div>
+                <div>
+                    <span class="title">Active: </span>
+                    <span editable-checkbox="snapshot.active">{{ snapshot.active && "Active" || "Inactive"}}</span>
+                </div>
+            </div>
+
+
+            <div class="buttons">
+                <!-- button to show form -->
+                <button type="button" class="btn btn-default" ng-click="editableForm.$show()" ng-show="!editableForm.$visible">
+                    Edit
+                </button>
+                <!-- buttons to submit / cancel form -->
+                <span ng-show="editableForm.$visible">
+                    <button type="submit" class="btn btn-primary" ng-disabled="editableForm.$waiting">
+                    Save
+                    </button>
+                    <button type="button" class="btn btn-default" ng-disabled="editableForm.$waiting" ng-click="editableForm.$cancel()">
+                    Cancel
+                    </button>
+                </span>
+
+            </div>
+        </form>
+    </div>
+</div>  

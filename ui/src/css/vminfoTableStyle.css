@@ -1,0 +1,39 @@
+.vminfo {
+  border-collapse: collapse;
+}
+
+.vminfo th {
+  border-bottom: 1px solid;
+}
+.vminfo td, .vminfo th {
+  border-left: 1px solid;
+  padding: 5px 10px;
+}
+.vminfo td:first-child, .vminfo th:first-child {
+  border-left: none;
+}
+
+.vminfo.sortorder:after {
+  content: '\25b2';   // BLACK UP-POINTING TRIANGLE
+}
+.vminfo.sortorder.reverse:after {
+  content: '\25bc';   // BLACK DOWN-POINTING TRIANGLE
+}
+
+
+.ngCell  {
+  display : table-cell;
+  height: auto !important;
+  overflow:visible;
+  position: static;
+}
+.ngRow {
+  display : table-row;
+  height: auto !important;
+  position: static;
+}
+.ngCellText{
+  height: auto !important;
+  white-space: normal;
+  overflow:visible;
+}

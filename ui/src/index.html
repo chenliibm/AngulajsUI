@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel = 'icon' href = "image/testicon.png">
+
+  <title>Auto Test</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content = "width=device-width, initial-scale=1">
+  
+  <!-- Style  -->
+  <link rel="stylesheet" href = "/bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/bower_components/angular-bootstrap/ui-bootstrap-csp.css">
+  <link rel="stylesheet" href = "/bower_components/font-awesome/css/font-awesome.css">
+  <link href="bower_components/angular-xeditable/dist/css/xeditable.css" rel="stylesheet">
+
+  <link rel="stylesheet" href = "css/modalStyle.css">
+
+  <!-- <link rel="stylesheet" href = "/bower_components/bootstrap-toggle/css/bootstrap2-toggle.min.css"> -->
+  
+
+</head>
+<body> 
+
+<div class="container-fluid" ng-app = "autotest">
+
+  <h2><img src ="/image/title.png" style="width:50px;height:50px;">&nbsp;Auto Test</h2>
+    <div class="col-md-12" >
+
+        <ul class="nav nav-tabs">
+          <!--<li class="active"><a data-toggle="tab" href="#home">Home</a></li> -->
+          <li class="active"><a data-toggle="tab" href="#jobs">Jobs</a></li>
+          <!--<li><a data-toggle="tab" href="#testcases">Test Cases</a></li>-->
+          <li><a data-toggle="tab" href="#vminfo">VMInfo</a></li>
+        </ul>
+
+      <div class = "tab-content">
+        <div calss = "tab-pane fade">
+          <ng-view></ng-view>
+        </div>
+      </div>
+</div>
+<!-- <button class="btn btn-default" data-toggle="confirmation" data-placement="right" onclick="function(){alert ('y');}">Confirmation on right</button> -->
+
+ 
+</div>
+
+
+</body>
+  <!-- Java Script -->
+  <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="/bower_components/bootstrap-confirmation2/bootstrap-confirmation.min.js"></script>
+  <script src="/bower_components/angular/angular.min.js"></script>
+  <script src="/bower_components/angular-route/angular-route.js"></script>
+  <script src="/bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
+  <script src="/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+  <script src="bower_components/angular-xeditable/dist/js/xeditable.js"></script>
+  <script src="/bower_components/checklist-model/checklist-model.js"></script>
+  <!-- <script src="/bower_components/jquery/dist/jquery.js"></script> -->
+  <!-- <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script> -->
+  
+
+  <!-- <script src="/bower_components/bootstrap-toggle/js/bootstrap2-toggle.min.js"></script> -->
+  
+  <script src="js/app.js"></script>
+</html>

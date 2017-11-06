@@ -1,0 +1,12 @@
+
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" ng-click="$dismiss()">&times;</button>
+        <h3>Log for Fixlet:{{id}} on VM "{{vm}}" with "{{snapshot}}"</h3>
+      </div>
+      <div class="modal-body">
+        <textarea rows="15" style="overflow:scroll; width:100%">
+        {{logInfo}}
+        </textarea>
+      </div>
+    </div>  
